@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "danmf",
+ "method_name": "DANMF",
+ "status": "ok",
+ "seconds": 67.3727380640048,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 114,
+  "coverage": 0.6541307028360049,
+  "mean_memberships": 0.7891491985203453,
+  "max_size": 81,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.47702981425557184,
+  "onmi_lfk": 0.4550875254670931,
+  "omega": 0.5089349661073811,
+  "f1": 0.5724352036173933,
+  "onf1": 0.3157894736842105,
+  "P_O": 0.2786885245901639,
+  "R_O": 0.36428571428571427,
+  "P_mem": 0.540625,
+  "R_mem": 0.6342804766269478,
+  "labeled_onmi_mgh": 0.6035379165693745,
+  "labeled_onmi_lfk": 0.6449164674223904,
+  "labeled_omega": 0.6498286530554428,
+  "labeled_f1": 0.7119519915860602,
+  "labeled_onf1": 0.3763837638376384,
+  "labeled_coverage": 0.7986651835372637
+ },
+ "source": "Thuc_Nghiem"
+}

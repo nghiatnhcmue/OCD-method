@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997000500_FLAT",
+ "topology_id": "KT1_997000500",
+ "regime": "FLAT",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 200,
+ "om": 4,
+ "replicate": 1,
+ "method": "wghac",
+ "method_name": "wGHAC",
+ "status": "ok",
+ "seconds": 1442.6924266549977,
+ "n_nodes": 1000,
+ "n_edges": 9694,
+ "cover_stats": {
+  "n_communities": 59,
+  "coverage": 1.0,
+  "mean_memberships": 1.498,
+  "max_size": 50,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.8992276806312782,
+  "onmi_lfk": 0.9207778105759115,
+  "omega": 0.9320147854676016,
+  "f1": 0.9610860122302584,
+  "onf1": 0.9720101781170484,
+  "P_O": 0.9896373056994818,
+  "R_O": 0.955,
+  "P_mem": 0.9973297730307076,
+  "R_mem": 0.93375
+ },
+ "source": "Thuc_Nghiem"
+}

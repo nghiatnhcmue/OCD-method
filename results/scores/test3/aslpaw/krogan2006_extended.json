@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "aslpaw",
+ "method_name": "ASLPAw",
+ "status": "ok",
+ "seconds": 9173.047498952,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 452,
+  "coverage": 0.9583333333333334,
+  "mean_memberships": 1.062636165577342,
+  "max_size": 362,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.08296512669030531,
+  "onmi_lfk": 0.15273265455254725,
+  "omega": 0.04555329688767685,
+  "f1": 0.3098692070979236,
+  "onf1": 0.019230769230769232,
+  "P_O": 0.013227513227513227,
+  "R_O": 0.035211267605633804,
+  "P_mem": 0.16504356740133266,
+  "R_mem": 0.5523156089193825,
+  "labeled_onmi_mgh": 0.4651339379167916,
+  "labeled_onmi_lfk": 0.5277731732326545,
+  "labeled_omega": 0.4736949388548425,
+  "labeled_f1": 0.659749541255771,
+  "labeled_onf1": 0.03389830508474576,
+  "labeled_coverage": 0.9229188078108942
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

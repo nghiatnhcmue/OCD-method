@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "wghac",
+ "method_name": "wGHAC",
+ "status": "ok",
+ "seconds": 781.9398260960006,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 315,
+  "coverage": 0.9056603773584906,
+  "mean_memberships": 1.0177897574123989,
+  "max_size": 115,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.14127161904242502,
+  "onmi_lfk": 0.14880288432144073,
+  "omega": 0.1939128175902228,
+  "f1": 0.30343772367153854,
+  "onf1": 0.12903225806451613,
+  "P_O": 0.11363636363636363,
+  "R_O": 0.14925373134328357,
+  "P_mem": 0.2722457627118644,
+  "R_mem": 0.49806201550387597,
+  "labeled_onmi_mgh": 0.3823142270797,
+  "labeled_onmi_lfk": 0.456681197272248,
+  "labeled_omega": 0.43047561003585727,
+  "labeled_f1": 0.6033266623570939,
+  "labeled_onf1": 0.17937219730941703,
+  "labeled_coverage": 0.8495887191539365
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

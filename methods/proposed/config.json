@@ -1,0 +1,15 @@
+{
+ "version": 2,
+ "description": "Phiên bản 2: chọn tập trên cây theo Ψ (độ bền), mức BH q = 0,001, hỗ trợ tối đa s_max = 200.",
+ "alpha": 0.15,
+ "eps": 0.0001,
+ "s_max": 200,
+ "knn": 10,
+ "radius_hops": 3,
+ "eta_factor": 0.05,
+ "beta": 1.0,
+ "tree_selection": "psi",
+ "tau_m": 0.30,
+ "min_comm_size": 5,
+ "q_bh": 0.001
+}

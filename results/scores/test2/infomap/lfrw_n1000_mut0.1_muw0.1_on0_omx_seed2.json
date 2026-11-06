@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.1_muw0.1_on0_omx_seed2",
+ "topology_id": "lfrw_n1000_mut0.1_muw0.1_on0_omx_seed2",
+ "regime": "original",
+ "mu": 0.1,
+ "mu_w": 0.1,
+ "on": 0,
+ "om": "",
+ "replicate": 2,
+ "method": "infomap",
+ "method_name": "Infomap",
+ "status": "ok",
+ "seconds": 4.300701270985883,
+ "n_nodes": 1000,
+ "n_edges": 9609,
+ "cover_stats": {
+  "n_communities": 34,
+  "coverage": 1.0,
+  "mean_memberships": 1.0,
+  "max_size": 60,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.971580663246647,
+  "onmi_lfk": 0.9769188352260726,
+  "omega": 0.9762224213724692,
+  "f1": 0.9871915281949883,
+  "onf1": NaN,
+  "P_O": NaN,
+  "R_O": NaN,
+  "P_mem": 0.982,
+  "R_mem": 0.982
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

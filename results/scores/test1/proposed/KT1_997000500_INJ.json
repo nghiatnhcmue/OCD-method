@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997000500_INJ",
+ "topology_id": "KT1_997000500",
+ "regime": "INJ",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 200,
+ "om": 4,
+ "replicate": 1,
+ "method": "proposed",
+ "method_name": "Phương pháp đề xuất",
+ "status": "ok",
+ "seconds": 786.9307577029977,
+ "n_nodes": 1000,
+ "n_edges": 9694,
+ "cover_stats": {
+  "n_communities": 59,
+  "coverage": 1.0,
+  "mean_memberships": 1.591,
+  "max_size": 50,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.9871089760498918,
+  "onmi_lfk": 0.9890110288734939,
+  "omega": 0.9918708889540422,
+  "f1": 0.9956666981199807,
+  "onf1": 0.9975062344139651,
+  "P_O": 0.9950248756218906,
+  "R_O": 1.0,
+  "P_mem": 0.9987429289754871,
+  "R_mem": 0.993125
+ },
+ "source": "Thuc_Nghiem"
+}

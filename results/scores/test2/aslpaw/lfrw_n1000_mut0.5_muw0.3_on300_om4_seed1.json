@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.5_muw0.3_on300_om4_seed1",
+ "topology_id": "lfrw_n1000_mut0.5_muw0.3_on300_om4_seed1",
+ "regime": "original",
+ "mu": 0.5,
+ "mu_w": 0.3,
+ "on": 300,
+ "om": 4,
+ "replicate": 1,
+ "method": "aslpaw",
+ "method_name": "ASLPAw",
+ "status": "ok",
+ "seconds": 2209.7712203619885,
+ "n_nodes": 1000,
+ "n_edges": 9813,
+ "cover_stats": {
+  "n_communities": 57,
+  "coverage": 0.998,
+  "mean_memberships": 1.049,
+  "max_size": 42,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.34008462239120874,
+  "onmi_lfk": 0.43774193468235156,
+  "omega": 0.4186676916835459,
+  "f1": 0.6281558010506355,
+  "onf1": 0.18803418803418803,
+  "P_O": 0.6470588235294118,
+  "R_O": 0.11,
+  "P_mem": 0.8541468064823642,
+  "R_mem": 0.47157894736842104
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

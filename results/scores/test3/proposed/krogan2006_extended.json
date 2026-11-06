@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "proposed",
+ "method_name": "Phương pháp đề xuất",
+ "status": "ok",
+ "seconds": 5390.3491403299995,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 244,
+  "coverage": 1.0,
+  "mean_memberships": 1.7535403050108933,
+  "max_size": 178,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.022638667731189038,
+  "onmi_lfk": 0.0523480459970892,
+  "omega": 0.05117794051527367,
+  "f1": 0.2563264712602595,
+  "onf1": 0.08258527827648116,
+  "P_O": 0.04512753433616743,
+  "R_O": 0.4859154929577465,
+  "P_mem": 0.11476937412641715,
+  "R_mem": 0.6337907375643225,
+  "labeled_onmi_mgh": 0.31145521122839864,
+  "labeled_onmi_lfk": 0.3083536017831381,
+  "labeled_omega": 0.44913815087538744,
+  "labeled_f1": 0.5388930994491976,
+  "labeled_onf1": 0.25321100917431194,
+  "labeled_coverage": 0.9969167523124358
+ },
+ "source": "Thuc_Nghiem"
+}

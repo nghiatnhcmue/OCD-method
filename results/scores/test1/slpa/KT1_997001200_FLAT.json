@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997001200_FLAT",
+ "topology_id": "KT1_997001200",
+ "regime": "FLAT",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 400,
+ "om": 6,
+ "replicate": 2,
+ "method": "slpa",
+ "method_name": "SLPA",
+ "status": "ok",
+ "seconds": 8.86059162800666,
+ "n_nodes": 1000,
+ "n_edges": 9456,
+ "cover_stats": {
+  "n_communities": 89,
+  "coverage": 1.0,
+  "mean_memberships": 1.483,
+  "max_size": 51,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.3209053937923086,
+  "onmi_lfk": 0.40817149305463374,
+  "omega": 0.37907670449199105,
+  "f1": 0.5835005019081212,
+  "onf1": 0.7931034482758621,
+  "P_O": 0.844632768361582,
+  "R_O": 0.7475,
+  "P_mem": 0.8975050573162509,
+  "R_mem": 0.44366666666666665
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

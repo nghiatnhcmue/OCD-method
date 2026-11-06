@@ -1,0 +1,5 @@
+folder	file	url	downloaded_utc	size	sha256
+netscience	netscience.csv.zip	https://networks.skewed.de/net/netscience/files/netscience.csv.zip	2026-11-05 23:28:03	47915	49e962563ee0764ad4ec6a0223189eb827a1af555c0b1754e424f1c93633cf93
+brain_coactivation	coactivation.csv.zip	https://networks.skewed.de/net/brain_coactivation/files/coactivation.csv.zip	2026-11-05 23:28:05	173558	bc148307f4f7627d9912ad477029bab9096096de8d93e7405e005836c3d2512d
+celegans_varshney	NeuronConnect.xls	https://www.wormatlas.org/images/NeuronConnect.xls	2026-11-05 23:29:07	518144	120c2c6332050a2d1494c19c687f447ed65620ad0db5f8b732189aa10e5162f1
+celegans_varshney	NeuronType.xls	https://www.wormatlas.org/images/NeuronType.xls	2026-11-05 23:29:09	60928	74c931076d671d24130bdb446cf48140964371e6d63dd1239664085f2566fc13

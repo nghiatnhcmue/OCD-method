@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "aslpaw",
+ "method_name": "ASLPAw",
+ "status": "ok",
+ "seconds": 3258.247620386999,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 265,
+  "coverage": 0.9494451294697904,
+  "mean_memberships": 0.9808877928483354,
+  "max_size": 160,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.3889327982371184,
+  "onmi_lfk": 0.42535437384489283,
+  "omega": 0.39473613993061873,
+  "f1": 0.5161334488563349,
+  "onf1": 0.0,
+  "P_O": 0.0,
+  "R_O": 0.0,
+  "P_mem": 0.43997485857950974,
+  "R_mem": 0.6416131989000916,
+  "labeled_onmi_mgh": 0.638439565086347,
+  "labeled_onmi_lfk": 0.7466522415272716,
+  "labeled_omega": 0.66209439766249,
+  "labeled_f1": 0.8116417598090325,
+  "labeled_onf1": 0.0,
+  "labeled_coverage": 0.9621802002224694
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

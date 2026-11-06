@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997001900_PERM",
+ "topology_id": "KT1_997001900",
+ "regime": "PERM",
+ "mu": 0.3,
+ "mu_w": "",
+ "on": 400,
+ "om": 3,
+ "replicate": 1,
+ "method": "bigclam",
+ "method_name": "BigCLAM",
+ "status": "ok",
+ "seconds": 21.338022025011014,
+ "n_nodes": 1000,
+ "n_edges": 9893,
+ "cover_stats": {
+  "n_communities": 54,
+  "coverage": 0.934,
+  "mean_memberships": 1.359,
+  "max_size": 53,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.6156832865094792,
+  "onmi_lfk": 0.7251293169185835,
+  "omega": 0.6466591024242125,
+  "f1": 0.8311349575182143,
+  "onf1": 0.7534883720930232,
+  "P_O": 0.9918367346938776,
+  "R_O": 0.6075,
+  "P_mem": 0.9175864606328182,
+  "R_mem": 0.6927777777777778
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

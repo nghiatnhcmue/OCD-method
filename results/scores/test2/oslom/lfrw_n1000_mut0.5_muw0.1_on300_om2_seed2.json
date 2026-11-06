@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.5_muw0.1_on300_om2_seed2",
+ "topology_id": "lfrw_n1000_mut0.5_muw0.1_on300_om2_seed2",
+ "regime": "original",
+ "mu": 0.5,
+ "mu_w": 0.1,
+ "on": 300,
+ "om": 2,
+ "replicate": 2,
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 57.34511701797601,
+ "n_nodes": 1000,
+ "n_edges": 9837,
+ "cover_stats": {
+  "n_communities": 46,
+  "coverage": 1.0,
+  "mean_memberships": 1.171,
+  "max_size": 45,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.8522331561296091,
+  "onmi_lfk": 0.8890404216716243,
+  "omega": 0.890178333927671,
+  "f1": 0.9434433167832617,
+  "onf1": 0.723404255319149,
+  "P_O": 1.0,
+  "R_O": 0.5666666666666667,
+  "P_mem": 0.9974380871050385,
+  "R_mem": 0.8984615384615384
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

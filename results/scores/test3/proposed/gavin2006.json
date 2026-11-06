@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "proposed",
+ "method_name": "Phương pháp đề xuất",
+ "status": "ok",
+ "seconds": 915.8141772259987,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 128,
+  "coverage": 1.0,
+  "mean_memberships": 1.3784366576819407,
+  "max_size": 176,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.11889129209553574,
+  "onmi_lfk": 0.17017842437399777,
+  "omega": 0.1485276707272009,
+  "f1": 0.3799868676018612,
+  "onf1": 0.07096774193548387,
+  "P_O": 0.04526748971193416,
+  "R_O": 0.16417910447761194,
+  "P_mem": 0.24208056315995308,
+  "R_mem": 0.5998062015503876,
+  "labeled_onmi_mgh": 0.47955748107139423,
+  "labeled_onmi_lfk": 0.4545227981559188,
+  "labeled_omega": 0.48625022132645673,
+  "labeled_f1": 0.628211717233299,
+  "labeled_onf1": 0.13114754098360656,
+  "labeled_coverage": 0.9976498237367802
+ },
+ "source": "Thuc_Nghiem"
+}

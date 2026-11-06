@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "wghac",
+ "method_name": "wGHAC",
+ "status": "ok",
+ "seconds": 9118.665468208994,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 2,
+  "coverage": 0.9888344226579521,
+  "mean_memberships": 0.9896514161220044,
+  "max_size": 3629,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.0030811205252510303,
+  "onmi_lfk": 0.08640389629321543,
+  "omega": 2.805844335101942e-05,
+  "f1": 0.006083956645293084,
+  "onf1": 0.0,
+  "P_O": 0.0,
+  "R_O": 0.0,
+  "P_mem": 0.008805723720418272,
+  "R_mem": 0.0274442538593482,
+  "labeled_onmi_mgh": 0.001308057172529201,
+  "labeled_onmi_lfk": 0.04141731336131482,
+  "labeled_omega": 0.00017203510339731037,
+  "labeled_f1": 0.03841231109034561,
+  "labeled_onf1": 0.0,
+  "labeled_coverage": 0.9938335046248715
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

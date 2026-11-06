@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "infomap",
+ "method_name": "Infomap",
+ "status": "ok",
+ "seconds": 3.35486638097791,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 57,
+  "coverage": 1.0,
+  "mean_memberships": 1.0,
+  "max_size": 350,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.03341696402831587,
+  "onmi_lfk": 0.09812767223489804,
+  "omega": 0.05312379998587454,
+  "f1": 0.18205084359798146,
+  "onf1": 0.0,
+  "P_O": 0.0,
+  "R_O": 0.0,
+  "P_mem": 0.1450134770889488,
+  "R_mem": 0.2606589147286822,
+  "labeled_onmi_mgh": 0.12509984017213216,
+  "labeled_onmi_lfk": 0.3057709553522665,
+  "labeled_omega": 0.20454841936412882,
+  "labeled_f1": 0.45821089717565633,
+  "labeled_onf1": 0.0,
+  "labeled_coverage": 0.9988249118683902
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

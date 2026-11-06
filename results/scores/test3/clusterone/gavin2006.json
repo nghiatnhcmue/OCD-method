@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "clusterone",
+ "method_name": "ClusterONE",
+ "status": "ok",
+ "seconds": 1.1247960619948572,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 194,
+  "coverage": 0.5897574123989219,
+  "mean_memberships": 0.7730458221024259,
+  "max_size": 29,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.4195282848392611,
+  "onmi_lfk": 0.49567682131712754,
+  "omega": 0.47682487092506337,
+  "f1": 0.6119204103050546,
+  "onf1": 0.1924198250728863,
+  "P_O": 0.15789473684210525,
+  "R_O": 0.2462686567164179,
+  "P_mem": 0.4769874476987448,
+  "R_mem": 0.6627906976744186,
+  "labeled_onmi_mgh": 0.6776603889928179,
+  "labeled_onmi_lfk": 0.7409365655234625,
+  "labeled_omega": 0.587170695899621,
+  "labeled_f1": 0.8166100940968257,
+  "labeled_onf1": 0.3055555555555556,
+  "labeled_coverage": 0.827262044653349
+ },
+ "source": "Thuc_Nghiem"
+}

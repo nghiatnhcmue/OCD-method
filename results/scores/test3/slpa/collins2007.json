@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "slpa",
+ "method_name": "SLPA",
+ "status": "ok",
+ "seconds": 7.406588295998517,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 270,
+  "coverage": 1.0,
+  "mean_memberships": 1.0745992601726264,
+  "max_size": 187,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.3542783884923688,
+  "onmi_lfk": 0.42105804852090156,
+  "omega": 0.3306656746116381,
+  "f1": 0.504340473619332,
+  "onf1": 0.03292181069958848,
+  "P_O": 0.038834951456310676,
+  "R_O": 0.02857142857142857,
+  "P_mem": 0.4102122776821572,
+  "R_mem": 0.6553620531622365,
+  "labeled_onmi_mgh": 0.6376507848565566,
+  "labeled_onmi_lfk": 0.7636972031532232,
+  "labeled_omega": 0.6069391211826073,
+  "labeled_f1": 0.8275802691159961,
+  "labeled_onf1": 0.03614457831325301,
+  "labeled_coverage": 0.9922135706340378
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

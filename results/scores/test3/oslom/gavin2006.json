@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 30.577243804000318,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 116,
+  "coverage": 0.9719676549865229,
+  "mean_memberships": 1.030188679245283,
+  "max_size": 121,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.23084580227542542,
+  "onmi_lfk": 0.3002337129616077,
+  "omega": 0.222072520820578,
+  "f1": 0.47320986289154754,
+  "onf1": 0.15384615384615385,
+  "P_O": 0.18,
+  "R_O": 0.13432835820895522,
+  "P_mem": 0.3338566195709053,
+  "R_mem": 0.6182170542635659,
+  "labeled_onmi_mgh": 0.5331755030699789,
+  "labeled_onmi_lfk": 0.5721461337236908,
+  "labeled_omega": 0.6029704451100085,
+  "labeled_f1": 0.7187971630225042,
+  "labeled_onf1": 0.2,
+  "labeled_coverage": 0.9964747356051704
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

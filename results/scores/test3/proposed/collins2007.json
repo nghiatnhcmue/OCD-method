@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "proposed",
+ "method_name": "Phương pháp đề xuất",
+ "status": "ok",
+ "seconds": 431.4921602050017,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 75,
+  "coverage": 1.0,
+  "mean_memberships": 1.092478421701603,
+  "max_size": 388,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.30463593190211247,
+  "onmi_lfk": 0.36847441480793086,
+  "omega": 0.09982247033516575,
+  "f1": 0.5198145183591742,
+  "onf1": 0.11067193675889328,
+  "P_O": 0.12389380530973451,
+  "R_O": 0.1,
+  "P_mem": 0.3278781038374718,
+  "R_mem": 0.532538955087076,
+  "labeled_onmi_mgh": 0.4810850392883129,
+  "labeled_onmi_lfk": 0.5827290676660564,
+  "labeled_omega": 0.47297333401530167,
+  "labeled_f1": 0.6843750559856993,
+  "labeled_onf1": 0.12972972972972974,
+  "labeled_coverage": 0.9988876529477196
+ },
+ "source": "Thuc_Nghiem"
+}

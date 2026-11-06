@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "danmf",
+ "method_name": "DANMF",
+ "status": "ok",
+ "seconds": 169.62062113499996,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 108,
+  "coverage": 0.29520697167755994,
+  "mean_memberships": 0.3300653594771242,
+  "max_size": 26,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.3540931749713419,
+  "onmi_lfk": 0.3041255830375733,
+  "omega": 0.4106580261214537,
+  "f1": 0.4803037077766246,
+  "onf1": 0.2777777777777778,
+  "P_O": 0.3181818181818182,
+  "R_O": 0.24647887323943662,
+  "P_mem": 0.49174917491749176,
+  "R_mem": 0.5111492281303602,
+  "labeled_onmi_mgh": 0.4698215044758126,
+  "labeled_onmi_lfk": 0.554233034628976,
+  "labeled_omega": 0.6001459184940342,
+  "labeled_f1": 0.6528189341376747,
+  "labeled_onf1": 0.3286384976525822,
+  "labeled_coverage": 0.6742034943473793
+ },
+ "source": "Thuc_Nghiem"
+}

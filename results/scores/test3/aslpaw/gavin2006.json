@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "aslpaw",
+ "method_name": "ASLPAw",
+ "status": "ok",
+ "seconds": 3905.5529687750004,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 274,
+  "coverage": 0.9611859838274932,
+  "mean_memberships": 1.0188679245283019,
+  "max_size": 86,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.25851915780456264,
+  "onmi_lfk": 0.31895834985391724,
+  "omega": 0.3164035935990587,
+  "f1": 0.45594039256363617,
+  "onf1": 0.03347280334728033,
+  "P_O": 0.0380952380952381,
+  "R_O": 0.029850746268656716,
+  "P_mem": 0.3566137566137566,
+  "R_mem": 0.6531007751937985,
+  "labeled_onmi_mgh": 0.5956012660176894,
+  "labeled_onmi_lfk": 0.6526969992239395,
+  "labeled_omega": 0.6236087617890006,
+  "labeled_f1": 0.7617208164391334,
+  "labeled_onf1": 0.050314465408805034,
+  "labeled_coverage": 0.954171562867215
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

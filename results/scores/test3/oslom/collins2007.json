@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 23.200188749004155,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 249,
+  "coverage": 1.0,
+  "mean_memberships": 1.031442663378545,
+  "max_size": 134,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.40828259099423386,
+  "onmi_lfk": 0.4504843472277351,
+  "omega": 0.43431423744744485,
+  "f1": 0.5193279651426699,
+  "onf1": 0.26455026455026454,
+  "P_O": 0.5102040816326531,
+  "R_O": 0.17857142857142858,
+  "P_mem": 0.44949193066347876,
+  "R_mem": 0.689275893675527,
+  "labeled_onmi_mgh": 0.6716141633124113,
+  "labeled_onmi_lfk": 0.7652087595937374,
+  "labeled_omega": 0.6805399555495326,
+  "labeled_f1": 0.8376540196591581,
+  "labeled_onf1": 0.27624309392265195,
+  "labeled_coverage": 0.9955506117908788
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

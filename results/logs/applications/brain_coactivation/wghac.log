@@ -1,0 +1,15 @@
+Start pairwise distance matrix calculation.
+Traceback (most recent call last):
+  File "/home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/applications/run.py", line 178, in <module>
+    measure_one(*sys.argv[2:])
+  File "/home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/applications/run.py", line 68, in measure_one
+    (cover, info), details = module.run(h), {}
+  File "/home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/methods/wghac/method.py", line 16, in run
+    out = run_wghac(g, min_comm_size=5, al_paper_denominator=False, temp_prefix="tn_%d" % os.getpid())
+  File "/home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/lib/methods/wghac.py", line 55, in run_wghac
+    linkage_matrix = engine.run()
+  File "/home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/lib/wghac/graph_hierarchical_agglomerative_clustering.py", line 135, in run
+    distance_matrix = self.calculate_pairwise_distance_matrix()
+  File "/home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/lib/wghac/graph_hierarchical_agglomerative_clustering.py", line 184, in calculate_pairwise_distance_matrix
+    clusters_distance_matrix = np.zeros((bases_count, bases_count))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 84.0 GiB for an array with shape (106180, 106180) and data type float64

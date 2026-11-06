@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.3_muw0.3_on300_om2_seed2",
+ "topology_id": "lfrw_n1000_mut0.3_muw0.3_on300_om2_seed2",
+ "regime": "original",
+ "mu": 0.3,
+ "mu_w": 0.3,
+ "on": 300,
+ "om": 2,
+ "replicate": 2,
+ "method": "bigclam",
+ "method_name": "BigCLAM",
+ "status": "ok",
+ "seconds": 25.576291191973723,
+ "n_nodes": 1000,
+ "n_edges": 9794,
+ "cover_stats": {
+  "n_communities": 40,
+  "coverage": 0.973,
+  "mean_memberships": 1.215,
+  "max_size": 77,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.8023896044764932,
+  "onmi_lfk": 0.8516823346819821,
+  "omega": 0.8230709144163917,
+  "f1": 0.9065857404381108,
+  "onf1": 0.8283582089552238,
+  "P_O": 0.940677966101695,
+  "R_O": 0.74,
+  "P_mem": 0.891358024691358,
+  "R_mem": 0.833076923076923
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

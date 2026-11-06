@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "clusterone",
+ "method_name": "ClusterONE",
+ "status": "ok",
+ "seconds": 4.259101299976464,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 530,
+  "coverage": 0.511437908496732,
+  "mean_memberships": 0.8681917211328976,
+  "max_size": 32,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.18343097338456543,
+  "onmi_lfk": 0.31269914144776134,
+  "omega": 0.3729530913892039,
+  "f1": 0.45223045507881965,
+  "onf1": 0.14694894146948942,
+  "P_O": 0.08925869894099848,
+  "R_O": 0.4154929577464789,
+  "P_mem": 0.23682559598494354,
+  "R_mem": 0.6475128644939966,
+  "labeled_onmi_mgh": 0.6181589687080584,
+  "labeled_onmi_lfk": 0.6090398785341605,
+  "labeled_omega": 0.5920558162045144,
+  "labeled_f1": 0.7272881721941766,
+  "labeled_onf1": 0.3089005235602094,
+  "labeled_coverage": 0.7913669064748201
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

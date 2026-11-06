@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "slpa",
+ "method_name": "SLPA",
+ "status": "ok",
+ "seconds": 10.385449819965288,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 175,
+  "coverage": 1.0,
+  "mean_memberships": 1.3477668845315904,
+  "max_size": 2550,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.08940505710122262,
+  "onmi_lfk": 0.119026910295573,
+  "omega": 0.0009499662275221112,
+  "f1": 0.22773607206678267,
+  "onf1": 0.04919292851652575,
+  "P_O": 0.027610008628127698,
+  "R_O": 0.22535211267605634,
+  "P_mem": 0.09496868054152353,
+  "R_mem": 0.40308747855917665,
+  "labeled_onmi_mgh": 0.3204528855375016,
+  "labeled_onmi_lfk": 0.39232320947904153,
+  "labeled_omega": 0.029297791699700742,
+  "labeled_f1": 0.5190839545927268,
+  "labeled_onf1": 0.16847826086956522,
+  "labeled_coverage": 0.9907502569373073
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

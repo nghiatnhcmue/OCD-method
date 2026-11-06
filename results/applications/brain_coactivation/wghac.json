@@ -1,0 +1,12 @@
+{
+ "net": "brain_coactivation",
+ "method": "wghac",
+ "perturbation": 0,
+ "status": "error",
+ "exit_code": 1,
+ "time_limit": 21600,
+ "wall_seconds": 209.80611753463745,
+ "cpu_seconds": null,
+ "cores": "2,3",
+ "finished": "2026-11-06 19:35:39"
+}

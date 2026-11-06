@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.5_muw0.5_on300_om2_seed2",
+ "topology_id": "lfrw_n1000_mut0.5_muw0.5_on300_om2_seed2",
+ "regime": "original",
+ "mu": 0.5,
+ "mu_w": 0.5,
+ "on": 300,
+ "om": 2,
+ "replicate": 2,
+ "method": "proposed",
+ "method_name": "Phương pháp đề xuất",
+ "status": "ok",
+ "seconds": 890.4293554970063,
+ "n_nodes": 1000,
+ "n_edges": 9728,
+ "cover_stats": {
+  "n_communities": 47,
+  "coverage": 1.0,
+  "mean_memberships": 1.258,
+  "max_size": 40,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.8126110885745969,
+  "onmi_lfk": 0.8258970536939726,
+  "omega": 0.8199505503516289,
+  "f1": 0.9133101565463947,
+  "onf1": 0.6861313868613139,
+  "P_O": 0.7580645161290323,
+  "R_O": 0.6266666666666667,
+  "P_mem": 0.9276629570747218,
+  "R_mem": 0.8976923076923077
+ },
+ "source": "Thuc_Nghiem"
+}

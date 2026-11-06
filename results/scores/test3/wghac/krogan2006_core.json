@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_core",
+ "topology_id": "krogan2006_core",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "wghac",
+ "method_name": "wGHAC",
+ "status": "ok",
+ "seconds": 1650.3267204959993,
+ "n_nodes": 2708,
+ "n_edges": 7123,
+ "cover_stats": {
+  "n_communities": 2,
+  "coverage": 0.9298375184638109,
+  "mean_memberships": 0.9309453471196455,
+  "max_size": 2510,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.009396992323909954,
+  "onmi_lfk": 0.02980568318200094,
+  "omega": 0.00023853356416948392,
+  "f1": 0.02755909397377834,
+  "onf1": 0.0,
+  "P_O": 0.0,
+  "R_O": 0.0,
+  "P_mem": 0.01190003966679889,
+  "R_mem": 0.027932960893854747,
+  "labeled_onmi_mgh": 0.010168820677564989,
+  "labeled_onmi_lfk": 0.054250341926517676,
+  "labeled_omega": 0.0006289922699529367,
+  "labeled_f1": 0.039972208818277226,
+  "labeled_onf1": 0.0,
+  "labeled_coverage": 0.9583802024746907
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

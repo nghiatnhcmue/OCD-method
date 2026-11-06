@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "wghac",
+ "method_name": "wGHAC",
+ "status": "ok",
+ "seconds": 17740.783454992998,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 2,
+  "coverage": 0.594944512946979,
+  "mean_memberships": 0.596177558569667,
+  "max_size": 960,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.05461016765791239,
+  "onmi_lfk": 0.1618903711196622,
+  "omega": 0.014959486999910053,
+  "f1": 0.18910113535947642,
+  "onf1": 0.0,
+  "P_O": 0.0,
+  "R_O": 0.0,
+  "P_mem": 0.0672182006204757,
+  "R_mem": 0.05957836846929423,
+  "labeled_onmi_mgh": 0.05815956263548612,
+  "labeled_onmi_lfk": 0.2447338492112765,
+  "labeled_omega": 0.0301836061524203,
+  "labeled_f1": 0.27412201942238595,
+  "labeled_onf1": 0.0,
+  "labeled_coverage": 0.6740823136818688
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "danmf",
+ "method_name": "DANMF",
+ "status": "ok",
+ "seconds": 48.88786465600424,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 89,
+  "coverage": 0.6172506738544474,
+  "mean_memberships": 0.7196765498652291,
+  "max_size": 41,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.36672944521449835,
+  "onmi_lfk": 0.374287226710577,
+  "omega": 0.346779092689167,
+  "f1": 0.5376422588434763,
+  "onf1": 0.26936026936026936,
+  "P_O": 0.24539877300613497,
+  "R_O": 0.29850746268656714,
+  "P_mem": 0.4404494382022472,
+  "R_mem": 0.5697674418604651,
+  "labeled_onmi_mgh": 0.523005500894815,
+  "labeled_onmi_lfk": 0.5753578690965587,
+  "labeled_omega": 0.561039684403985,
+  "labeled_f1": 0.7022834734866379,
+  "labeled_onf1": 0.35874439461883406,
+  "labeled_coverage": 0.8119858989424207
+ },
+ "source": "Thuc_Nghiem"
+}

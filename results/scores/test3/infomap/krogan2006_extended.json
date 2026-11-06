@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "infomap",
+ "method_name": "Infomap",
+ "status": "ok",
+ "seconds": 4.326119671983179,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 329,
+  "coverage": 1.0,
+  "mean_memberships": 1.0,
+  "max_size": 110,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.09051065656195953,
+  "onmi_lfk": 0.17669772082293111,
+  "omega": 0.12433416702438824,
+  "f1": 0.33298315065424927,
+  "onf1": 0.0,
+  "P_O": 0.0,
+  "R_O": 0.0,
+  "P_mem": 0.1835511982570806,
+  "R_mem": 0.5780445969125214,
+  "labeled_onmi_mgh": 0.49924736354230337,
+  "labeled_onmi_lfk": 0.5479651565356031,
+  "labeled_omega": 0.6181107375246813,
+  "labeled_f1": 0.701924863818008,
+  "labeled_onf1": 0.0,
+  "labeled_coverage": 0.9537512846865365
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

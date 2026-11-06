@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "bigclam",
+ "method_name": "BigCLAM",
+ "status": "ok",
+ "seconds": 23.16589614597615,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 117,
+  "coverage": 0.657829839704069,
+  "mean_memberships": 1.184340320591862,
+  "max_size": 49,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.32642789601234773,
+  "onmi_lfk": 0.3975141402511049,
+  "omega": 0.39833544963095524,
+  "f1": 0.5349143016300473,
+  "onf1": 0.24833702882483372,
+  "P_O": 0.18006430868167203,
+  "R_O": 0.4,
+  "P_mem": 0.35398230088495575,
+  "R_mem": 0.6232813932172319,
+  "labeled_onmi_mgh": 0.4994549974497988,
+  "labeled_onmi_lfk": 0.5053970450856058,
+  "labeled_omega": 0.5592601253161792,
+  "labeled_f1": 0.6252714080859594,
+  "labeled_onf1": 0.32558139534883723,
+  "labeled_coverage": 0.7975528364849833
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}
