@@ -1,0 +1,36 @@
+{
+ "dataset": "lock1",
+ "net_id": "KT1_994000200_FLAT",
+ "topology_id": "KT1_994000200",
+ "regime": "FLAT",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 200,
+ "om": 4,
+ "replicate": 1,
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 83.73011225399932,
+ "n_nodes": 1000,
+ "n_edges": 9769,
+ "cover_stats": {
+  "n_communities": 52,
+  "coverage": 1.0,
+  "mean_memberships": 1.344,
+  "max_size": 46,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.783303697128204,
+  "onmi_lfk": 0.8428132110586838,
+  "omega": 0.8201852012636364,
+  "f1": 0.9131153986758991,
+  "onf1": 0.8571428571428571,
+  "P_O": 1.0,
+  "R_O": 0.75,
+  "P_mem": 1.0,
+  "R_mem": 0.84
+ },
+ "source": "Thuc_Nghiem"
+}

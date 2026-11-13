@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997001300_FLAT",
+ "topology_id": "KT1_997001300",
+ "regime": "FLAT",
+ "mu": 0.3,
+ "mu_w": "",
+ "on": 0,
+ "om": 2,
+ "replicate": 1,
+ "method": "clusterone",
+ "method_name": "ClusterONE",
+ "status": "ok",
+ "seconds": 3.81009854801232,
+ "n_nodes": 1000,
+ "n_edges": 9667,
+ "cover_stats": {
+  "n_communities": 90,
+  "coverage": 0.929,
+  "mean_memberships": 1.77,
+  "max_size": 31,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.5753665932212944,
+  "onmi_lfk": 0.7524230983219629,
+  "omega": 0.6584858523721207,
+  "f1": 0.8282272509862353,
+  "onf1": NaN,
+  "P_O": 0.0,
+  "R_O": NaN,
+  "P_mem": 0.42598870056497173,
+  "R_mem": 0.754
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

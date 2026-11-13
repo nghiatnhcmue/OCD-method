@@ -1,0 +1,36 @@
+generated locked_kt1  1 mu=0.1 on=0 om=2 rep=1 seed=994000100
+generated locked_kt1  2 mu=0.1 on=200 om=4 rep=1 seed=994000200
+generated locked_kt1  3 mu=0.1 on=400 om=6 rep=1 seed=994000300
+generated locked_kt1  4 mu=0.3 on=0 om=2 rep=1 seed=994000400
+generated locked_kt1  5 mu=0.3 on=200 om=4 rep=1 seed=994000500
+generated locked_kt1  6 mu=0.3 on=400 om=6 rep=1 seed=994000600
+generated locked_kt1  7 mu=0.5 on=0 om=2 rep=1 seed=994000700
+generated locked_kt1  8 mu=0.5 on=200 om=4 rep=1 seed=994000800
+generated locked_kt1  9 mu=0.5 on=400 om=6 rep=1 seed=994000900
+COMPLETE 9 topologies
+generated lfrw_n1000_mut0.1_muw0.1_on0_omx_seed1 seed 994500100 {'n_canh': 10064, 'bat_doi_xung': 0, 'w_min': 0.000203042, 'w_max': 17.1014, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.1_muw0.1_on100_om2_seed1 seed 994500200 {'n_canh': 9798, 'bat_doi_xung': 0, 'w_min': 8.11822e-05, 'w_max': 19.8027, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.1_muw0.1_on100_om4_seed1 seed 994500300 {'n_canh': 9731, 'bat_doi_xung': 0, 'w_min': 0.000117572, 'w_max': 16.3025, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.1_muw0.1_on300_om2_seed1 seed 994500400 {'n_canh': 9643, 'bat_doi_xung': 0, 'w_min': 9.54558e-07, 'w_max': 15.3659, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.1_muw0.1_on300_om4_seed1 seed 994500500 {'n_canh': 9870, 'bat_doi_xung': 0, 'w_min': 0.000946198, 'w_max': 15.7856, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.3_muw0.3_on0_omx_seed1 seed 994500600 {'n_canh': 9808, 'bat_doi_xung': 0, 'w_min': 0.0283781, 'w_max': 11.5713, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.3_muw0.3_on100_om2_seed1 seed 994500700 {'n_canh': 10157, 'bat_doi_xung': 0, 'w_min': 0.00720552, 'w_max': 11.6212, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.3_muw0.3_on100_om4_seed1 seed 994500800 {'n_canh': 9530, 'bat_doi_xung': 0, 'w_min': 0.000901334, 'w_max': 11.6186, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.3_muw0.3_on300_om2_seed1 seed 994500900 {'n_canh': 10129, 'bat_doi_xung': 0, 'w_min': 0.00155507, 'w_max': 10.6834, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.3_muw0.3_on300_om4_seed1 seed 994501000 {'n_canh': 9598, 'bat_doi_xung': 0, 'w_min': 0.00270574, 'w_max': 11.0078, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.5_on0_omx_seed1 seed 994501100 {'n_canh': 9783, 'bat_doi_xung': 0, 'w_min': 0.0203926, 'w_max': 11.3319, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.5_on100_om2_seed1 seed 994501200 {'n_canh': 9832, 'bat_doi_xung': 0, 'w_min': 8.03179e-05, 'w_max': 12.9753, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.5_on100_om4_seed1 seed 994501300 {'n_canh': 9512, 'bat_doi_xung': 0, 'w_min': 0.0107484, 'w_max': 10.8873, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.5_on300_om2_seed1 seed 994501400 {'n_canh': 9753, 'bat_doi_xung': 0, 'w_min': 0.0477612, 'w_max': 10.9845, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.5_on300_om4_seed1 seed 994501500 {'n_canh': 9747, 'bat_doi_xung': 0, 'w_min': 0.0864965, 'w_max': 11.5276, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.3_on0_omx_seed1 seed 994501600 {'n_canh': 9957, 'bat_doi_xung': 0, 'w_min': 0.00135448, 'w_max': 19.725, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.3_on100_om2_seed1 seed 994501700 {'n_canh': 9855, 'bat_doi_xung': 0, 'w_min': 0.00162269, 'w_max': 16.3017, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.3_on100_om4_seed1 seed 994501800 {'n_canh': 9780, 'bat_doi_xung': 0, 'w_min': 0.0047858, 'w_max': 18.1486, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.3_on300_om2_seed1 seed 994501900 {'n_canh': 9976, 'bat_doi_xung': 0, 'w_min': 0.00307349, 'w_max': 16.753, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.3_on300_om4_seed1 seed 994502000 {'n_canh': 10083, 'bat_doi_xung': 0, 'w_min': 0.00078278, 'w_max': 16.155, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.1_on0_omx_seed1 seed 994502100 {'n_canh': 9994, 'bat_doi_xung': 0, 'w_min': 4.25121e-05, 'w_max': 20.4247, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.1_on100_om2_seed1 seed 994502200 {'n_canh': 9905, 'bat_doi_xung': 0, 'w_min': 3.17265e-05, 'w_max': 20.7127, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.1_on100_om4_seed1 seed 994502300 {'n_canh': 9756, 'bat_doi_xung': 0, 'w_min': 5.30691e-05, 'w_max': 23.458, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.1_on300_om2_seed1 seed 994502400 {'n_canh': 9835, 'bat_doi_xung': 0, 'w_min': 8.80954e-06, 'w_max': 20.0403, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+generated lfrw_n1000_mut0.5_muw0.1_on300_om4_seed1 seed 994502500 {'n_canh': 9689, 'bat_doi_xung': 0, 'w_min': 4.21637e-05, 'w_max': 20.0158, 'w_khong_duong': 0, 'w_khong_huu_han': 0, 'dinh_ngoai_nhan': 0, 'dinh_co_canh': 1000}
+COMPLETE 25 networks

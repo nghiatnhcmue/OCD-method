@@ -1,0 +1,36 @@
+{
+ "dataset": "lock2",
+ "net_id": "lfrw_n1000_mut0.3_muw0.3_on300_om4_seed1",
+ "topology_id": "lfrw_n1000_mut0.3_muw0.3_on300_om4_seed1",
+ "regime": "original",
+ "mu": 0.3,
+ "mu_w": 0.3,
+ "on": 300,
+ "om": 4,
+ "replicate": 1,
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 115.56753858299999,
+ "n_nodes": 1000,
+ "n_edges": 9598,
+ "cover_stats": {
+  "n_communities": 63,
+  "coverage": 1.0,
+  "mean_memberships": 1.199,
+  "max_size": 33,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.5339148304265587,
+  "onmi_lfk": 0.6607205568872856,
+  "omega": 0.5366348439308682,
+  "f1": 0.7744265380219824,
+  "onf1": 0.5099009900990099,
+  "P_O": 0.9903846153846154,
+  "R_O": 0.3433333333333333,
+  "P_mem": 0.9766472060050042,
+  "R_mem": 0.6163157894736843
+ },
+ "source": "Thuc_Nghiem"
+}

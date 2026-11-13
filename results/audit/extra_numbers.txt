@@ -1,0 +1,24 @@
+Tỉ lệ thời gian bước gộp (C_merge / total) của DOT-CCM trong lượt đo thời gian
+  test1: 18 mạng, trung vị 0.935, nhỏ nhất 0.905, lớn nhất 0.948
+  test2: 10 mạng, trung vị 0.936, nhỏ nhất 0.920, lớn nhất 0.947
+  test3: 4 mạng, trung vị 0.905, nhỏ nhất 0.893, lớn nhất 0.945
+Cỡ cụm lớn nhất của wGHAC
+  KT2 mu_t = 0.5, mu_w = 0.1: 10 mạng, trung vị 52, trung bình 63.9
+  KT2 mu_t = 0.5, mu_w = 0.3: 10 mạng, trung vị 90, trung bình 178.5
+  KT2 mu_t = 0.5, mu_w = 0.5: 10 mạng, trung vị 802, trung bình 593.5
+  collins2007: 2 cụm, lớn nhất 960 / 1622 đỉnh
+  gavin2006: 315 cụm, lớn nhất 115 / 1855 đỉnh
+  krogan2006_core: 2 cụm, lớn nhất 2510 / 2708 đỉnh
+  krogan2006_extended: 2 cụm, lớn nhất 3629 / 3672 đỉnh
+Kết nạp của Pha II theo số cạnh nối vào lõi (từ results/audit/phase2_diag)
+  lfrw_n1000_mut0.3_muw0.3_on0_omx_seed1: 21 kết nạp, một cạnh 57.1%, đúng khi >= 2 cạnh 0.0%
+  lfrw_n1000_mut0.3_muw0.3_on0_omx_seed2: 9 kết nạp, một cạnh 44.4%, đúng khi >= 2 cạnh 0.0%
+  lfrw_n1000_mut0.3_muw0.3_on100_om2_seed1: 61 kết nạp, một cạnh 34.4%, đúng khi >= 2 cạnh 55.0%
+  lfrw_n1000_mut0.3_muw0.3_on100_om2_seed2: 39 kết nạp, một cạnh 12.8%, đúng khi >= 2 cạnh 61.8%
+  lfrw_n5000_mut0.3_muw0.3_on0_omx_seed1: 2833 kết nạp, một cạnh 91.8%, đúng khi >= 2 cạnh 0.0%
+  lfrw_n5000_mut0.3_muw0.3_on0_omx_seed2: 2945 kết nạp, một cạnh 93.0%, đúng khi >= 2 cạnh 0.0%
+  lfrw_n5000_mut0.3_muw0.3_on0_omx_seed3: 3155 kết nạp, một cạnh 93.0%, đúng khi >= 2 cạnh 0.0%
+  lfrw_n5000_mut0.3_muw0.3_on500_om2_seed1: 4751 kết nạp, một cạnh 90.6%, đúng khi >= 2 cạnh 32.4%
+  lfrw_n5000_mut0.3_muw0.3_on500_om2_seed2: 5002 kết nạp, một cạnh 91.1%, đúng khi >= 2 cạnh 31.5%
+  lfrw_n5000_mut0.3_muw0.3_on500_om2_seed3: 4512 kết nạp, một cạnh 90.9%, đúng khi >= 2 cạnh 35.5%
+  tổng kết nạp một cạnh: 21282, trong đó đúng: 0

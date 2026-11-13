@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997000700_PERM",
+ "topology_id": "KT1_997000700",
+ "regime": "PERM",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 400,
+ "om": 3,
+ "replicate": 1,
+ "method": "aslpaw",
+ "method_name": "ASLPAw",
+ "status": "ok",
+ "seconds": 2276.962084336963,
+ "n_nodes": 1000,
+ "n_edges": 9735,
+ "cover_stats": {
+  "n_communities": 57,
+  "coverage": 0.999,
+  "mean_memberships": 1.056,
+  "max_size": 43,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.4498921432156334,
+  "onmi_lfk": 0.5418736022278573,
+  "omega": 0.5354292637191381,
+  "f1": 0.6845416010294458,
+  "onf1": 0.2013129102844639,
+  "P_O": 0.8070175438596491,
+  "R_O": 0.115,
+  "P_mem": 0.9554924242424242,
+  "R_mem": 0.5605555555555556
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

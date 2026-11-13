@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "slpa",
+ "method_name": "SLPA",
+ "status": "ok",
+ "seconds": 6.940375887963455,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 224,
+  "coverage": 1.0,
+  "mean_memberships": 1.1649595687331535,
+  "max_size": 115,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.21794526998282107,
+  "onmi_lfk": 0.291507561831462,
+  "omega": 0.2241286998575376,
+  "f1": 0.43565567460159293,
+  "onf1": 0.05365853658536585,
+  "P_O": 0.03985507246376811,
+  "R_O": 0.08208955223880597,
+  "P_mem": 0.3105043961129107,
+  "R_mem": 0.6501937984496124,
+  "labeled_onmi_mgh": 0.5624829777356332,
+  "labeled_onmi_lfk": 0.5844666018033967,
+  "labeled_omega": 0.5818120939352037,
+  "labeled_f1": 0.725224448300094,
+  "labeled_onf1": 0.09401709401709402,
+  "labeled_coverage": 0.9858989424206815
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

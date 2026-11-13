@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 53.05426973901922,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 84,
+  "coverage": 0.9918300653594772,
+  "mean_memberships": 1.014161220043573,
+  "max_size": 326,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.036445785657303074,
+  "onmi_lfk": 0.06428656659745202,
+  "omega": 0.032238205694600744,
+  "f1": 0.2772983179081621,
+  "onf1": 0.15384615384615385,
+  "P_O": 0.21518987341772153,
+  "R_O": 0.11971830985915492,
+  "P_mem": 0.15225563909774437,
+  "R_mem": 0.4862778730703259,
+  "labeled_onmi_mgh": 0.3725949622587594,
+  "labeled_onmi_lfk": 0.41789107088212907,
+  "labeled_omega": 0.4261611687273052,
+  "labeled_f1": 0.5837419966101633,
+  "labeled_onf1": 0.17801047120418848,
+  "labeled_coverage": 0.9917780061664954
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

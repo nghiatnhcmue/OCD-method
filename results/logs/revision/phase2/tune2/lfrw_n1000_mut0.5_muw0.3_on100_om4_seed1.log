@@ -1,0 +1,1 @@
+[DONE] tune2 lfrw_n1000_mut0.5_muw0.3_on100_om4_seed1 old=148 cp_node_0.001=6 cp_node_0.01=31 cp_node_0.05=65 cp_global_0.001=0 cp_global_0.01=0 cp_global_0.05=6 count_node_0.001=3 match=True

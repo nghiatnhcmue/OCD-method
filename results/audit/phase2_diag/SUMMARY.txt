@@ -1,0 +1,12 @@
+10:21:55 10 jobs, 3 workers
+12:45:24 done rc=[0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+lfrw_n1000_mut0.3_muw0.3_on0_omx_seed1 same=True cores=32 adds=21 correct=0.00 k=1:12 k=2:8 k>=3:1 share_med=0.122 | ONMI final 0.965 phase1 0.996 | mem final 1.02 phase1 1.00
+lfrw_n1000_mut0.3_muw0.3_on0_omx_seed2 same=True cores=36 adds=9 correct=0.00 k=1:4 k=2:5 k>=3:0 share_med=0.146 | ONMI final 0.985 phase1 1.000 | mem final 1.01 phase1 1.00
+lfrw_n1000_mut0.3_muw0.3_on100_om2_seed1 same=True cores=40 adds=61 correct=0.36 k=1:21 k=2:19 k>=3:21 share_med=0.172 | ONMI final 0.944 phase1 0.963 | mem final 1.14 phase1 1.07
+lfrw_n1000_mut0.3_muw0.3_on100_om2_seed2 same=True cores=38 adds=39 correct=0.54 k=1:5 k=2:11 k>=3:23 share_med=0.212 | ONMI final 0.969 phase1 0.965 | mem final 1.11 phase1 1.07
+lfrw_n5000_mut0.3_muw0.3_on0_omx_seed1 same=True cores=166 adds=2833 correct=0.00 k=1:2602 k=2:223 k>=3:8 share_med=0.089 | ONMI final 0.536 phase1 1.000 | mem final 1.57 phase1 1.00
+lfrw_n5000_mut0.3_muw0.3_on0_omx_seed2 same=True cores=171 adds=2945 correct=0.00 k=1:2740 k=2:198 k>=3:7 share_med=0.086 | ONMI final 0.536 phase1 1.000 | mem final 1.59 phase1 1.00
+lfrw_n5000_mut0.3_muw0.3_on0_omx_seed3 same=True cores=176 adds=3155 correct=0.00 k=1:2933 k=2:213 k>=3:9 share_med=0.087 | ONMI final 0.514 phase1 1.000 | mem final 1.63 phase1 1.00
+lfrw_n5000_mut0.3_muw0.3_on500_om2_seed1 same=True cores=193 adds=4751 correct=0.03 k=1:4306 k=2:303 k>=3:142 share_med=0.089 | ONMI final 0.415 phase1 0.962 | mem final 2.02 phase1 1.07
+lfrw_n5000_mut0.3_muw0.3_on500_om2_seed2 same=True cores=195 adds=5002 correct=0.03 k=1:4558 k=2:308 k>=3:136 share_med=0.088 | ONMI final 0.398 phase1 0.964 | mem final 2.07 phase1 1.07
+lfrw_n5000_mut0.3_muw0.3_on500_om2_seed3 same=True cores=190 adds=4512 correct=0.03 k=1:4101 k=2:264 k>=3:147 share_med=0.088 | ONMI final 0.437 phase1 0.957 | mem final 1.97 phase1 1.07

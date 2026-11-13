@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "bigclam_k",
+ "method_name": "BigCLAM (K thật)",
+ "status": "ok",
+ "seconds": 7.665672720999964,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 143,
+  "coverage": 0.8991913746630728,
+  "mean_memberships": 1.308355795148248,
+  "max_size": 42,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.2068730944784528,
+  "onmi_lfk": 0.29450076257125724,
+  "omega": 0.2419346622075745,
+  "f1": 0.47454601161448895,
+  "onf1": 0.1752738654147105,
+  "P_O": 0.11089108910891089,
+  "R_O": 0.417910447761194,
+  "P_mem": 0.2892459826946848,
+  "R_mem": 0.6802325581395349,
+  "labeled_onmi_mgh": 0.48544700367434784,
+  "labeled_onmi_lfk": 0.4802383704002391,
+  "labeled_omega": 0.5484910244739688,
+  "labeled_f1": 0.6602498075543075,
+  "labeled_onf1": 0.29473684210526313,
+  "labeled_coverage": 0.9588719153936546
+ },
+ "source": "Thuc_Nghiem"
+}

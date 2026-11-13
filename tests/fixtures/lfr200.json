@@ -1,0 +1,1 @@
+{"generator": "results/phat_trien_v2/tai_ve/lfr_goc/src/weighted_undirected/benchmark", "args": ["-N", "200", "-k", "10", "-maxk", "20", "-mut", "0.2", "-muw", "0.2", "-beta", "1.5", "-t1", "2", "-t2", "1", "-minc", "10", "-maxc", "25", "-on", "20", "-om", "2"], "seed": 20261112}

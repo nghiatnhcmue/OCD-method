@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997001100_INJ",
+ "topology_id": "KT1_997001100",
+ "regime": "INJ",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 400,
+ "om": 6,
+ "replicate": 1,
+ "method": "danmf",
+ "method_name": "DANMF",
+ "status": "ok",
+ "seconds": 31.42396390200156,
+ "n_nodes": 1000,
+ "n_edges": 9437,
+ "cover_stats": {
+  "n_communities": 59,
+  "coverage": 0.926,
+  "mean_memberships": 1.523,
+  "max_size": 70,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.3526575431591397,
+  "onmi_lfk": 0.5135621496092688,
+  "omega": 0.43479935991200935,
+  "f1": 0.6508621250605378,
+  "onf1": 0.7559274755927475,
+  "P_O": 0.8548895899053628,
+  "R_O": 0.6775,
+  "P_mem": 0.8502954694681549,
+  "R_mem": 0.43166666666666664
+ },
+ "source": "Thuc_Nghiem"
+}

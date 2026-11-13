@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997000600_PERM",
+ "topology_id": "KT1_997000600",
+ "regime": "PERM",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 200,
+ "om": 4,
+ "replicate": 2,
+ "method": "danmf_k",
+ "method_name": "DANMF (K thật)",
+ "status": "ok",
+ "seconds": 68.50412342100026,
+ "n_nodes": 1000,
+ "n_edges": 9801,
+ "cover_stats": {
+  "n_communities": 59,
+  "coverage": 0.979,
+  "mean_memberships": 1.428,
+  "max_size": 42,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.790214730580645,
+  "onmi_lfk": 0.8286052332813422,
+  "omega": 0.7957390941463234,
+  "f1": 0.8856224146050202,
+  "onf1": 0.8167053364269141,
+  "P_O": 0.7619047619047619,
+  "R_O": 0.88,
+  "P_mem": 0.9180672268907563,
+  "R_mem": 0.819375
+ },
+ "source": "Thuc_Nghiem"
+}

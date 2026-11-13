@@ -1,0 +1,156 @@
+{
+ "created_utc": "2026-10-24T09:50:56+00:00",
+ "bo": "kiem_tra_3",
+ "nguon_mang": {
+  "url": "https://paccanarolab.org/static_content/clusterone/cl1_datasets.zip",
+  "sha256_zip": "2664d6ffe691cc7b4fececdd746ebd0adc8fc65f2f14f469bb6899486d38cdd8",
+  "thoi_diem_tai_utc": "2026-10-24 09:25:57"
+ },
+ "nguon_cyc2008": {
+  "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2647312/supplementaryFiles",
+  "sha256_zip": "19947a39d9728551375968d39daa6cd83d4ae86f5532ba5e93d39fc29d9dd98c",
+  "tep": "gkn1005_nar-02139-s-2008-File005.xls, sheet CYC2008_complex",
+  "ghi_chu": "trang gốc wodaklab.org/cyc2008 không truy cập được; lấy từ tài liệu bổ sung của bài báo gốc (Europe PMC, PMC2647312)",
+  "so_phuc_hop": 408
+ },
+ "nguon_phu": {
+  "url": "https://paccanarolab.org/static_content/clusterone/cl1_gold_standard.zip",
+  "sha256_zip": "2c7805fafc52aed507d9a0528bb087fec2bc4e4f23adfdd7a7d2e518b10b9f32",
+  "so_phuc_hop": {
+   "mips": 203,
+   "sgd": 323
+  }
+ },
+ "quy_tac": {
+  "ma_protein": "tên ORF hệ thống, viết hoa, bỏ khoảng trắng; khớp trực tiếp giữa mạng và phức hợp",
+  "canh": "bỏ khuyên; cạnh lặp giữ lần xuất hiện đầu và đếm; trọng số phải dương và hữu hạn",
+  "phuc_hop": "giao phức hợp với tập protein của mạng; giữ phức hợp còn ít nhất 3 protein"
+ },
+ "mang": [
+  {
+   "ten": "gavin2006",
+   "tep_goc": "gavin2006_socioaffinities_rescaled.txt",
+   "graph": "data/kiem_tra_luan_van/kiem_tra_3/gavin2006.tsv",
+   "dinh": "data/kiem_tra_luan_van/kiem_tra_3/gavin2006_dinh.tsv",
+   "n": 1855,
+   "m": 7669,
+   "canh_lap_bo": 0,
+   "khuyen_bo": 0,
+   "w_min": 0.227354,
+   "w_max": 1.0,
+   "w_khong_duong": 0,
+   "w_khong_huu_han": 0,
+   "phuc_hop": {
+    "cyc2008": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/gavin2006_phuc_hop_cyc2008.json",
+     "so_giu": 143,
+     "so_goc": 408
+    },
+    "mips": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/gavin2006_phuc_hop_mips.json",
+     "so_giu": 148,
+     "so_goc": 203
+    },
+    "sgd": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/gavin2006_phuc_hop_sgd.json",
+     "so_giu": 140,
+     "so_goc": 323
+    }
+   }
+  },
+  {
+   "ten": "krogan2006_core",
+   "tep_goc": "krogan2006_core.txt",
+   "graph": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_core.tsv",
+   "dinh": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_core_dinh.tsv",
+   "n": 2708,
+   "m": 7123,
+   "canh_lap_bo": 0,
+   "khuyen_bo": 0,
+   "w_min": 0.27,
+   "w_max": 0.99,
+   "w_khong_duong": 0,
+   "w_khong_huu_han": 0,
+   "phuc_hop": {
+    "cyc2008": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_core_phuc_hop_cyc2008.json",
+     "so_giu": 169,
+     "so_goc": 408
+    },
+    "mips": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_core_phuc_hop_mips.json",
+     "so_giu": 166,
+     "so_goc": 203
+    },
+    "sgd": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_core_phuc_hop_sgd.json",
+     "so_giu": 175,
+     "so_goc": 323
+    }
+   }
+  },
+  {
+   "ten": "krogan2006_extended",
+   "tep_goc": "krogan2006_extended.txt",
+   "graph": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_extended.tsv",
+   "dinh": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_extended_dinh.tsv",
+   "n": 3672,
+   "m": 14317,
+   "canh_lap_bo": 0,
+   "khuyen_bo": 0,
+   "w_min": 0.1,
+   "w_max": 0.99,
+   "w_khong_duong": 0,
+   "w_khong_huu_han": 0,
+   "phuc_hop": {
+    "cyc2008": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_extended_phuc_hop_cyc2008.json",
+     "so_giu": 186,
+     "so_goc": 408
+    },
+    "mips": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_extended_phuc_hop_mips.json",
+     "so_giu": 178,
+     "so_goc": 203
+    },
+    "sgd": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/krogan2006_extended_phuc_hop_sgd.json",
+     "so_giu": 196,
+     "so_goc": 323
+    }
+   }
+  },
+  {
+   "ten": "collins2007",
+   "tep_goc": "collins2007.txt",
+   "graph": "data/kiem_tra_luan_van/kiem_tra_3/collins2007.tsv",
+   "dinh": "data/kiem_tra_luan_van/kiem_tra_3/collins2007_dinh.tsv",
+   "n": 1622,
+   "m": 9074,
+   "canh_lap_bo": 0,
+   "khuyen_bo": 0,
+   "w_min": 0.482111,
+   "w_max": 0.99,
+   "w_khong_duong": 0,
+   "w_khong_huu_han": 0,
+   "phuc_hop": {
+    "cyc2008": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/collins2007_phuc_hop_cyc2008.json",
+     "so_giu": 145,
+     "so_goc": 408
+    },
+    "mips": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/collins2007_phuc_hop_mips.json",
+     "so_giu": 153,
+     "so_goc": 203
+    },
+    "sgd": {
+     "tep": "data/kiem_tra_luan_van/kiem_tra_3/collins2007_phuc_hop_sgd.json",
+     "so_giu": 149,
+     "so_goc": 323
+    }
+   }
+  }
+ ],
+ "status": "COMPLETE"
+}

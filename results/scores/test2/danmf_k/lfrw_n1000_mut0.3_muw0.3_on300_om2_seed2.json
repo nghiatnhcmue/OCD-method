@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.3_muw0.3_on300_om2_seed2",
+ "topology_id": "lfrw_n1000_mut0.3_muw0.3_on300_om2_seed2",
+ "regime": "original",
+ "mu": 0.3,
+ "mu_w": 0.3,
+ "on": 300,
+ "om": 2,
+ "replicate": 2,
+ "method": "danmf_k",
+ "method_name": "DANMF (K thật)",
+ "status": "ok",
+ "seconds": 15.447991400000092,
+ "n_nodes": 1000,
+ "n_edges": 9794,
+ "cover_stats": {
+  "n_communities": 43,
+  "coverage": 0.758,
+  "mean_memberships": 0.897,
+  "max_size": 36,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.523738260025147,
+  "onmi_lfk": 0.6114508067448674,
+  "omega": 0.5441512807381926,
+  "f1": 0.7412783244407763,
+  "onf1": 0.4547563805104408,
+  "P_O": 0.7480916030534351,
+  "R_O": 0.32666666666666666,
+  "P_mem": 0.8762541806020067,
+  "R_mem": 0.6046153846153847
+ },
+ "source": "Thuc_Nghiem"
+}

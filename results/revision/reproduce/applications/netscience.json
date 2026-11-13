@@ -1,0 +1,18 @@
+{
+ "dataset": "applications",
+ "net_id": "netscience",
+ "seconds": 102.98863868898479,
+ "clock": "CLOCK_MONOTONIC_RAW",
+ "config_version": 2,
+ "checks": {
+  "cover": true,
+  "pre_cover": true,
+  "cores": true,
+  "adds": true,
+  "adds_p": true,
+  "kappa": true,
+  "eta": true,
+  "c_max": true
+ },
+ "ok": true
+}

@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.5_muw0.1_on100_om2_seed2",
+ "topology_id": "lfrw_n1000_mut0.5_muw0.1_on100_om2_seed2",
+ "regime": "original",
+ "mu": 0.5,
+ "mu_w": 0.1,
+ "on": 100,
+ "om": 2,
+ "replicate": 2,
+ "method": "wghac",
+ "method_name": "wGHAC",
+ "status": "ok",
+ "seconds": 3924.151435515996,
+ "n_nodes": 1000,
+ "n_edges": 9675,
+ "cover_stats": {
+  "n_communities": 64,
+  "coverage": 1.0,
+  "mean_memberships": 1.228,
+  "max_size": 46,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.790064839883654,
+  "onmi_lfk": 0.7359606238146233,
+  "omega": 0.9263816317120388,
+  "f1": 0.7998786175837039,
+  "onf1": 0.5089605734767025,
+  "P_O": 0.39664804469273746,
+  "R_O": 0.71,
+  "P_mem": 0.8542345276872965,
+  "R_mem": 0.9536363636363636
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

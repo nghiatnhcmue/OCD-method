@@ -1,0 +1,13 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997000100_INJ",
+ "seconds": 355.11392619201797,
+ "clock": "CLOCK_MONOTONIC_RAW",
+ "config_version": 2,
+ "checks": {
+  "cover": true,
+  "scores": true,
+  "cover_stats": true
+ },
+ "ok": true
+}

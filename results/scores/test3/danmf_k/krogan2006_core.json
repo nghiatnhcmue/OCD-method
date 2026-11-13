@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_core",
+ "topology_id": "krogan2006_core",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "danmf_k",
+ "method_name": "DANMF (K thật)",
+ "status": "ok",
+ "seconds": 188.17563697399964,
+ "n_nodes": 2708,
+ "n_edges": 7123,
+ "cover_stats": {
+  "n_communities": 168,
+  "coverage": 0.5716395864106352,
+  "mean_memberships": 0.6827917282127031,
+  "max_size": 31,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.24777178908106645,
+  "onmi_lfk": 0.2756299075480575,
+  "omega": 0.32571943461584235,
+  "f1": 0.4672944680056606,
+  "onf1": 0.2513089005235602,
+  "P_O": 0.19433198380566802,
+  "R_O": 0.35555555555555557,
+  "P_mem": 0.3618171984856679,
+  "R_mem": 0.6229050279329609,
+  "labeled_onmi_mgh": 0.5472357061898092,
+  "labeled_onmi_lfk": 0.5521405464892606,
+  "labeled_omega": 0.6266364758584102,
+  "labeled_f1": 0.6963608521630991,
+  "labeled_onf1": 0.3805668016194332,
+  "labeled_coverage": 0.8368953880764904
+ },
+ "source": "Thuc_Nghiem"
+}

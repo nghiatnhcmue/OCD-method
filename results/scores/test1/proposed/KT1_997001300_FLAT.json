@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997001300_FLAT",
+ "topology_id": "KT1_997001300",
+ "regime": "FLAT",
+ "mu": 0.3,
+ "mu_w": "",
+ "on": 0,
+ "om": 2,
+ "replicate": 1,
+ "method": "proposed",
+ "method_name": "Phương pháp đề xuất",
+ "status": "ok",
+ "seconds": 904.5399761930021,
+ "n_nodes": 1000,
+ "n_edges": 9667,
+ "cover_stats": {
+  "n_communities": 35,
+  "coverage": 1.0,
+  "mean_memberships": 1.003,
+  "max_size": 49,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.9947331113443282,
+  "onmi_lfk": 0.9949070707110432,
+  "omega": 0.997975499414783,
+  "f1": 0.9978913757637161,
+  "onf1": NaN,
+  "P_O": 0.0,
+  "R_O": NaN,
+  "P_mem": 0.9970089730807578,
+  "R_mem": 1.0
+ },
+ "source": "Thuc_Nghiem"
+}

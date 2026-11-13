@@ -1,0 +1,36 @@
+{
+ "dataset": "lock1",
+ "net_id": "KT1_994000600_INJ",
+ "topology_id": "KT1_994000600",
+ "regime": "INJ",
+ "mu": 0.3,
+ "mu_w": "",
+ "on": 400,
+ "om": 6,
+ "replicate": 1,
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 189.01191055799973,
+ "n_nodes": 1000,
+ "n_edges": 9559,
+ "cover_stats": {
+  "n_communities": 64,
+  "coverage": 1.0,
+  "mean_memberships": 1.203,
+  "max_size": 42,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.18576517401925016,
+  "onmi_lfk": 0.29989383366132283,
+  "omega": 0.2715124794987103,
+  "f1": 0.5276450798796832,
+  "onf1": 0.42990654205607476,
+  "P_O": 0.8518518518518519,
+  "R_O": 0.2875,
+  "P_mem": 0.8063175394846218,
+  "R_mem": 0.3233333333333333
+ },
+ "source": "Thuc_Nghiem"
+}

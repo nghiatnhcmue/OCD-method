@@ -1,0 +1,113 @@
+table,row,column,printed,recomputed,verdict
+ppi,clusterone,onmi_mgh,0.312,0.3115,khớp
+ppi,clusterone,labeled_onmi_mgh,0.667,0.6667,khớp
+ppi,clusterone,labeled_f1,0.785,0.7853,khớp
+ppi,clusterone,labeled_omega,0.610,0.6103,khớp
+ppi,clusterone,labeled_coverage,85.6%,85.5873,khớp
+ppi,aslpaw,onmi_mgh,0.219,0.2187,khớp
+ppi,aslpaw,labeled_onmi_mgh,0.559,0.5594,khớp
+ppi,aslpaw,labeled_f1,0.738,0.7378,khớp
+ppi,aslpaw,labeled_omega,0.585,0.5851,khớp
+ppi,aslpaw,labeled_coverage,94.4%,94.4351,khớp
+ppi,danmf,onmi_mgh,0.372,0.3721,khớp
+ppi,danmf,labeled_onmi_mgh,0.522,0.5224,khớp
+ppi,danmf,labeled_f1,0.682,0.6820,khớp
+ppi,danmf,labeled_omega,0.601,0.6013,khớp
+ppi,danmf,labeled_coverage,76.6%,76.5814,khớp
+ppi,slpa,onmi_mgh,0.193,0.1927,khớp
+ppi,slpa,labeled_onmi_mgh,0.505,0.5053,khớp
+ppi,slpa,labeled_f1,0.688,0.6879,khớp
+ppi,slpa,labeled_omega,0.423,0.4231,khớp
+ppi,slpa,labeled_coverage,98.5%,98.5467,khớp
+ppi,oslom,onmi_mgh,0.195,0.1953,khớp
+ppi,oslom,labeled_onmi_mgh,0.497,0.4968,khớp
+ppi,oslom,labeled_f1,0.699,0.6989,khớp
+ppi,oslom,labeled_omega,0.544,0.5445,khớp
+ppi,oslom,labeled_coverage,98.8%,98.7796,khớp
+ppi,proposed,onmi_mgh,0.126,0.1258,khớp
+ppi,proposed,labeled_onmi_mgh,0.412,0.4124,khớp
+ppi,proposed,labeled_f1,0.607,0.6068,khớp
+ppi,proposed,labeled_omega,0.472,0.4718,khớp
+ppi,proposed,labeled_coverage,99.8%,99.8082,khớp
+ppi,bigclam,onmi_mgh,0.158,0.1584,khớp
+ppi,bigclam,labeled_onmi_mgh,0.364,0.3640,khớp
+ppi,bigclam,labeled_f1,0.541,0.5410,khớp
+ppi,bigclam,labeled_omega,0.434,0.4336,khớp
+ppi,bigclam,labeled_coverage,91.6%,91.6260,khớp
+ppi,infomap,onmi_mgh,0.103,0.1026,khớp
+ppi,infomap,labeled_onmi_mgh,0.251,0.2514,khớp
+ppi,infomap,labeled_f1,0.547,0.5467,khớp
+ppi,infomap,labeled_omega,0.263,0.2629,khớp
+ppi,infomap,labeled_coverage,98.6%,98.6188,khớp
+ppi,wghac,onmi_mgh,0.052,0.0521,khớp
+ppi,wghac,labeled_onmi_mgh,0.113,0.1130,khớp
+ppi,wghac,labeled_f1,0.239,0.2390,khớp
+ppi,wghac,labeled_omega,0.115,0.1154,khớp
+ppi,wghac,labeled_coverage,86.9%,86.8971,khớp
+timing,Benchmark 1 (18 nets),proposed,811s,810.7972,khớp
+timing,Benchmark 1 (18 nets),wghac,"2,319s",2319.2875,khớp
+timing,Benchmark 1 (18 nets),speedup,2.9times,2.8605,khớp
+timing,Benchmark 1 (18 nets),oslom,56s,56.4450,khớp
+timing,Benchmark 2 (10 nets),proposed,855s,854.9057,khớp
+timing,Benchmark 2 (10 nets),wghac,"3,111s",3111.2743,khớp
+timing,Benchmark 2 (10 nets),speedup,3.6times,3.6393,khớp
+timing,Benchmark 2 (10 nets),oslom,33s,33.1833,khớp
+timing,Collins 2007 (N=1622),proposed,470s,469.6809,khớp
+timing,Collins 2007 (N=1622),wghac,"16,921s",16921.3634,khớp
+timing,Collins 2007 (N=1622),speedup,36.0times,36.0274,khớp
+timing,Collins 2007 (N=1622),oslom,22s,22.2209,khớp
+timing,Gavin 2006 (N=1855),proposed,"1,090s",1089.6937,khớp
+timing,Gavin 2006 (N=1855),wghac,711s,711.0379,khớp
+timing,Gavin 2006 (N=1855),speedup,0.65times,0.6525,khớp
+timing,Gavin 2006 (N=1855),oslom,33s,32.8971,khớp
+timing,Krogan Core (N=2708),proposed,"2,481s",2481.2858,khớp
+timing,Krogan Core (N=2708),wghac,"1,481s",1481.0966,khớp
+timing,Krogan Core (N=2708),speedup,0.60times,0.5969,khớp
+timing,Krogan Core (N=2708),oslom,28s,28.0171,khớp
+timing,Krogan Ext (N=3672),proposed,"5,866s",5865.8782,khớp
+timing,Krogan Ext (N=3672),wghac,"9,342s",9342.3131,khớp
+timing,Krogan Ext (N=3672),speedup,1.6times,1.5927,khớp
+timing,Krogan Ext (N=3672),oslom,51s,50.6945,khớp
+ablation,Full DOT-CCM,test1,0.768,0.7677,khớp
+ablation,Full DOT-CCM,test2,0.867,0.8674,khớp
+ablation,Full DOT-CCM,test3,0.412,0.4124,khớp
+ablation,w/o Phase II (Core only),test1,0.580 (-0.188),0.5796,khớp
+ablation,w/o Phase II (Core only),test2,0.792 (-0.075),0.7920,khớp
+ablation,w/o Phase II (Core only),test3,0.481 (+0.069),0.4807,khớp
+ablation,w/o Log Transform,test1,0.769 (+0.001),0.7688,khớp
+ablation,w/o Log Transform,test2,0.803 (-0.065),0.8028,khớp
+ablation,w/o Optimal Transport,test1,0.714 (-0.054),0.7141,khớp
+ablation,w/o Optimal Transport,test2,0.851 (-0.016),0.8513,khớp
+ablation,Tree Obj. Psi to Density,test1,0.768 (-0.000),0.7675,khớp
+ablation,Tree Obj. Psi to Density,test2,0.868 (+0.000),0.8677,khớp
+ablation,Tree Obj. Psi to Density,test3,0.452 (+0.040),0.4522,khớp
+n5000,OSLOM,disjoint,1.000,1.0000,khớp
+n5000,OSLOM,overlapping,0.990,0.9898,khớp
+n5000,OSLOM,macro,0.995,0.9949,khớp
+n5000,SLPA,disjoint,0.995,0.9948,khớp
+n5000,SLPA,overlapping,0.965,0.9648,khớp
+n5000,SLPA,macro,0.980,0.9798,khớp
+n5000,ClusterONE,disjoint,1.000,1.0000,khớp
+n5000,ClusterONE,overlapping,0.943,0.9427,khớp
+n5000,ClusterONE,macro,0.971,0.9713,khớp
+n5000,Infomap,disjoint,0.994,0.9941,khớp
+n5000,Infomap,overlapping,0.834,0.8336,khớp
+n5000,Infomap,macro,0.914,0.9139,khớp
+n5000,ASLPAw,disjoint,0.987,0.9867,khớp
+n5000,ASLPAw,overlapping,0.833,0.8333,khớp
+n5000,ASLPAw,macro,0.910,0.9100,khớp
+n5000,BigCLAM,disjoint,0.825,0.8255,khớp
+n5000,BigCLAM,overlapping,0.593,0.5930,khớp
+n5000,BigCLAM,macro,0.709,0.7092,khớp
+n5000,DANMF,disjoint,0.653,0.6528,khớp
+n5000,DANMF,overlapping,0.421,0.4212,khớp
+n5000,DANMF,macro,0.537,0.5370,khớp
+n5000,DOT-CCM (Main),disjoint,0.529,0.5288,khớp
+n5000,DOT-CCM (Main),overlapping,0.416,0.4165,khớp
+n5000,DOT-CCM (Main),macro,0.473,0.4726,khớp
+n5000,Phase I Alone,disjoint,1.000,1.0000,khớp
+n5000,Phase I Alone,overlapping,0.961,0.9612,khớp
+n5000,Phase I Alone,macro,0.981,0.9806,khớp
+n5000,DOT-CCM (ge 2 Core Edges),disjoint,0.939,0.9388,khớp
+n5000,DOT-CCM (ge 2 Core Edges),overlapping,0.927,0.9272,khớp
+n5000,DOT-CCM (ge 2 Core Edges),macro,0.933,0.9330,khớp

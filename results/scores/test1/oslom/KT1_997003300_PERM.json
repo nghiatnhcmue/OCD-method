@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997003300_PERM",
+ "topology_id": "KT1_997003300",
+ "regime": "PERM",
+ "mu": 0.5,
+ "mu_w": "",
+ "on": 400,
+ "om": 4,
+ "replicate": 1,
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 56.118272235034965,
+ "n_nodes": 1000,
+ "n_edges": 9927,
+ "cover_stats": {
+  "n_communities": 59,
+  "coverage": 1.0,
+  "mean_memberships": 1.08,
+  "max_size": 46,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.2631630208555967,
+  "onmi_lfk": 0.39442119543523013,
+  "omega": 0.32115774083679016,
+  "f1": 0.5931471553207985,
+  "onf1": 0.19789473684210526,
+  "P_O": 0.6266666666666667,
+  "R_O": 0.1175,
+  "P_mem": 0.812962962962963,
+  "R_mem": 0.3990909090909091
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

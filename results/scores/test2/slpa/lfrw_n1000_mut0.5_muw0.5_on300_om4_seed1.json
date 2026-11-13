@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.5_muw0.5_on300_om4_seed1",
+ "topology_id": "lfrw_n1000_mut0.5_muw0.5_on300_om4_seed1",
+ "regime": "original",
+ "mu": 0.5,
+ "mu_w": 0.5,
+ "on": 300,
+ "om": 4,
+ "replicate": 1,
+ "method": "slpa",
+ "method_name": "SLPA",
+ "status": "ok",
+ "seconds": 9.449730457970873,
+ "n_nodes": 1000,
+ "n_edges": 9371,
+ "cover_stats": {
+  "n_communities": 74,
+  "coverage": 1.0,
+  "mean_memberships": 1.729,
+  "max_size": 563,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.17418790621754504,
+  "onmi_lfk": 0.17107974242747437,
+  "omega": 0.11219377424342585,
+  "f1": 0.4123382477163898,
+  "onf1": 0.5913461538461539,
+  "P_O": 0.462406015037594,
+  "R_O": 0.82,
+  "P_mem": 0.42452284557547715,
+  "R_mem": 0.3863157894736842
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

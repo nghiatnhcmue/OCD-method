@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997002800_PERM",
+ "topology_id": "KT1_997002800",
+ "regime": "PERM",
+ "mu": 0.5,
+ "mu_w": "",
+ "on": 200,
+ "om": 2,
+ "replicate": 2,
+ "method": "infomap",
+ "method_name": "Infomap",
+ "status": "ok",
+ "seconds": 4.356327444955241,
+ "n_nodes": 1000,
+ "n_edges": 9762,
+ "cover_stats": {
+  "n_communities": 39,
+  "coverage": 1.0,
+  "mean_memberships": 1.0,
+  "max_size": 45,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.7478652701833555,
+  "onmi_lfk": 0.8183987274856483,
+  "omega": 0.7731565427200976,
+  "f1": 0.8996298153023462,
+  "onf1": 0.0,
+  "P_O": 0.0,
+  "R_O": 0.0,
+  "P_mem": 0.977,
+  "R_mem": 0.8141666666666667
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

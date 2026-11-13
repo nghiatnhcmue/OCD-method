@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997002400_PERM",
+ "topology_id": "KT1_997002400",
+ "regime": "PERM",
+ "mu": 0.3,
+ "mu_w": "",
+ "on": 400,
+ "om": 6,
+ "replicate": 2,
+ "method": "clusterone",
+ "method_name": "ClusterONE",
+ "status": "ok",
+ "seconds": 4.053223234019242,
+ "n_nodes": 1000,
+ "n_edges": 9655,
+ "cover_stats": {
+  "n_communities": 115,
+  "coverage": 0.851,
+  "mean_memberships": 1.58,
+  "max_size": 56,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.0656082303939707,
+  "onmi_lfk": 0.10333031063230291,
+  "omega": 0.13843273067520548,
+  "f1": 0.4282090449388795,
+  "onf1": 0.3155397390272835,
+  "P_O": 0.3002257336343115,
+  "R_O": 0.3325,
+  "P_mem": 0.5379746835443038,
+  "R_mem": 0.2833333333333333
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

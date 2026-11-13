@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "bigclam_k",
+ "method_name": "BigCLAM (K thật)",
+ "status": "ok",
+ "seconds": 17.267045886999995,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 142,
+  "coverage": 0.6806411837237978,
+  "mean_memberships": 1.2336621454993835,
+  "max_size": 48,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.31435417447085373,
+  "onmi_lfk": 0.4148026040943993,
+  "omega": 0.416938806921025,
+  "f1": 0.5532756039886154,
+  "onf1": 0.2555066079295154,
+  "P_O": 0.18471337579617833,
+  "R_O": 0.4142857142857143,
+  "P_mem": 0.3498250874562719,
+  "R_mem": 0.6416131989000916,
+  "labeled_onmi_mgh": 0.4969555291776375,
+  "labeled_onmi_lfk": 0.5313936008065812,
+  "labeled_omega": 0.5658680001006494,
+  "labeled_f1": 0.6478624288654891,
+  "labeled_onf1": 0.3372093023255814,
+  "labeled_coverage": 0.8298109010011123
+ },
+ "source": "Thuc_Nghiem"
+}

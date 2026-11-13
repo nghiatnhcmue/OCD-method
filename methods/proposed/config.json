@@ -1,0 +1,20 @@
+{
+ "version": 3,
+ "alpha": 0.15,
+ "eps": 0.0001,
+ "s_max": 200,
+ "knn": 10,
+ "radius_hops": 3,
+ "eta_factor": 0.05,
+ "beta": 1.0,
+ "tree_selection": "psi",
+ "monotone_heights": true,
+ "tau_m": 0.3,
+ "min_comm_size": 5,
+ "q_bh": 0.05,
+ "phase2_pvalue": "cpoisson",
+ "phase2_xi": "gamma",
+ "phase2_family": "node",
+ "phase2_min_core_edges": 0,
+ "phase2_grid": 400
+}

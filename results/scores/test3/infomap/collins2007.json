@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "infomap",
+ "method_name": "Infomap",
+ "status": "ok",
+ "seconds": 3.72693317203084,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 200,
+  "coverage": 1.0,
+  "mean_memberships": 1.0,
+  "max_size": 341,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.24366187600944808,
+  "onmi_lfk": 0.3010661557150154,
+  "omega": 0.1039906371782699,
+  "f1": 0.3556665085152273,
+  "onf1": 0.0,
+  "P_O": 0.0,
+  "R_O": 0.0,
+  "P_mem": 0.26078914919852036,
+  "R_mem": 0.387717690192484,
+  "labeled_onmi_mgh": 0.3270810560663144,
+  "labeled_onmi_lfk": 0.6240478085608221,
+  "labeled_omega": 0.22617881380951818,
+  "labeled_f1": 0.6932730843128772,
+  "labeled_onf1": 0.0,
+  "labeled_coverage": 0.9955506117908788
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

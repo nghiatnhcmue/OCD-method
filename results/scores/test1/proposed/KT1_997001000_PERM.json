@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997001000_PERM",
+ "topology_id": "KT1_997001000",
+ "regime": "PERM",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 400,
+ "om": 4,
+ "replicate": 2,
+ "method": "proposed",
+ "method_name": "Phương pháp đề xuất",
+ "status": "ok",
+ "seconds": 962.582584982003,
+ "n_nodes": 1000,
+ "n_edges": 9776,
+ "cover_stats": {
+  "n_communities": 74,
+  "coverage": 1.0,
+  "mean_memberships": 2.159,
+  "max_size": 49,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.8619627658811707,
+  "onmi_lfk": 0.8571213203947236,
+  "omega": 0.8894135156951779,
+  "f1": 0.926806547164918,
+  "onf1": 0.9122006841505131,
+  "P_O": 0.8385744234800838,
+  "R_O": 1.0,
+  "P_mem": 0.9453450671607225,
+  "R_mem": 0.9277272727272727
+ },
+ "source": "Thuc_Nghiem"
+}

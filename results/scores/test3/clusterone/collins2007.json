@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "clusterone",
+ "method_name": "ClusterONE",
+ "status": "ok",
+ "seconds": 3.35317550500622,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 195,
+  "coverage": 0.7983970406905055,
+  "mean_memberships": 0.9771886559802713,
+  "max_size": 104,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.4578667139969238,
+  "onmi_lfk": 0.5456768813422102,
+  "omega": 0.4922110971214462,
+  "f1": 0.633760613415389,
+  "onf1": 0.287292817679558,
+  "P_O": 0.23423423423423423,
+  "R_O": 0.37142857142857144,
+  "P_mem": 0.48769716088328074,
+  "R_mem": 0.7085242896425298,
+  "labeled_onmi_mgh": 0.7011507039311297,
+  "labeled_onmi_lfk": 0.7741265165438174,
+  "labeled_omega": 0.6564282113925086,
+  "labeled_f1": 0.8348825353209965,
+  "labeled_onf1": 0.40476190476190477,
+  "labeled_coverage": 0.9477196885428254
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

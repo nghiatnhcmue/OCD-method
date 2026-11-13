@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997001900_FLAT",
+ "topology_id": "KT1_997001900",
+ "regime": "FLAT",
+ "mu": 0.3,
+ "mu_w": "",
+ "on": 400,
+ "om": 3,
+ "replicate": 1,
+ "method": "danmf_k",
+ "method_name": "DANMF (K thật)",
+ "status": "ok",
+ "seconds": 49.49820613300005,
+ "n_nodes": 1000,
+ "n_edges": 9893,
+ "cover_stats": {
+  "n_communities": 60,
+  "coverage": 0.969,
+  "mean_memberships": 1.397,
+  "max_size": 37,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.6194985398257681,
+  "onmi_lfk": 0.6874162294735671,
+  "omega": 0.6236999902494217,
+  "f1": 0.8046831714415708,
+  "onf1": 0.7390691114245416,
+  "P_O": 0.8478964401294499,
+  "R_O": 0.655,
+  "P_mem": 0.9076592698639943,
+  "R_mem": 0.7044444444444444
+ },
+ "source": "Thuc_Nghiem"
+}

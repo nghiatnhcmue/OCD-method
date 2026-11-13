@@ -1,0 +1,11 @@
+START 2026-11-13 13:23:03
+Mạng ứng dụng: 3 lượt chờ (chưa kể bản nhiễu của lượt gốc chưa xong), 5 tiến trình, giới hạn 21600 giây
+Xong: 33 ok, 0 quá giờ, 0 lỗi
+APPS_RC 0 2026-11-13 13:46:47
+Bóc tách v3: 482 lượt, 10 tiến trình
+Xong: 482 ok, 0 quá giờ, 0 lỗi
+ABLATION_RC 0 2026-11-13 19:12:17
+/home/nghia/.local/lib/python3.10/site-packages/scipy/stats/_morestats.py:4088: UserWarning: Exact p-value calculation does not work if there are zeros. Switching to normal approximation.
+  warnings.warn("Exact p-value calculation does not work if there are "
+Đã ghi /home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/results/round_c/ablation/SUMMARY.md
+STEP2_DONE 2026-11-13 19:12:18

@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997001700_FLAT",
+ "topology_id": "KT1_997001700",
+ "regime": "FLAT",
+ "mu": 0.3,
+ "mu_w": "",
+ "on": 200,
+ "om": 4,
+ "replicate": 1,
+ "method": "bigclam_k",
+ "method_name": "BigCLAM (K thật)",
+ "status": "ok",
+ "seconds": 37.43200227700072,
+ "n_nodes": 1000,
+ "n_edges": 9931,
+ "cover_stats": {
+  "n_communities": 56,
+  "coverage": 0.934,
+  "mean_memberships": 1.169,
+  "max_size": 38,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.6258227152805956,
+  "onmi_lfk": 0.7207593467252023,
+  "omega": 0.6448635637244486,
+  "f1": 0.8172462429203668,
+  "onf1": 0.6109324758842444,
+  "P_O": 0.8558558558558559,
+  "R_O": 0.475,
+  "P_mem": 0.951240376390077,
+  "R_mem": 0.695
+ },
+ "source": "Thuc_Nghiem"
+}

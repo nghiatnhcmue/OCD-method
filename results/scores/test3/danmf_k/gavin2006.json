@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "gavin2006",
+ "topology_id": "gavin2006",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "danmf_k",
+ "method_name": "DANMF (K thật)",
+ "status": "ok",
+ "seconds": 102.38022835099991,
+ "n_nodes": 1855,
+ "n_edges": 7669,
+ "cover_stats": {
+  "n_communities": 143,
+  "coverage": 0.7703504043126684,
+  "mean_memberships": 0.9703504043126685,
+  "max_size": 40,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.30492231624269955,
+  "onmi_lfk": 0.38225601146897326,
+  "omega": 0.3344525816495092,
+  "f1": 0.5510198067517098,
+  "onf1": 0.20909090909090908,
+  "P_O": 0.1503267973856209,
+  "R_O": 0.34328358208955223,
+  "P_mem": 0.3933333333333333,
+  "R_mem": 0.686046511627907,
+  "labeled_onmi_mgh": 0.6191243272858272,
+  "labeled_onmi_lfk": 0.6079723552005066,
+  "labeled_omega": 0.5968613174082065,
+  "labeled_f1": 0.7322568567210781,
+  "labeled_onf1": 0.33093525179856115,
+  "labeled_coverage": 0.927144535840188
+ },
+ "source": "Thuc_Nghiem"
+}

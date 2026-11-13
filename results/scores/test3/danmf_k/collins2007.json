@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "collins2007",
+ "topology_id": "collins2007",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "danmf_k",
+ "method_name": "DANMF (K thật)",
+ "status": "ok",
+ "seconds": 85.5330947589996,
+ "n_nodes": 1622,
+ "n_edges": 9074,
+ "cover_stats": {
+  "n_communities": 140,
+  "coverage": 0.6837237977805178,
+  "mean_memberships": 0.9001233045622689,
+  "max_size": 50,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.44185043092108317,
+  "onmi_lfk": 0.48925869284469803,
+  "omega": 0.4411365840286734,
+  "f1": 0.6030855073659377,
+  "onf1": 0.25821596244131456,
+  "P_O": 0.19230769230769232,
+  "R_O": 0.39285714285714285,
+  "P_mem": 0.48904109589041095,
+  "R_mem": 0.6544454628780935,
+  "labeled_onmi_mgh": 0.6409788239296096,
+  "labeled_onmi_lfk": 0.6564048737304522,
+  "labeled_omega": 0.579976282646512,
+  "labeled_f1": 0.735304094885004,
+  "labeled_onf1": 0.31339031339031337,
+  "labeled_coverage": 0.8353726362625139
+ },
+ "source": "Thuc_Nghiem"
+}

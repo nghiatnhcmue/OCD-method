@@ -1,0 +1,211 @@
+{
+ "created_utc": "2026-10-24T09:40:03+00:00",
+ "bo": "kiem_tra_2_thoi_gian",
+ "chuong_trinh": "LFRbenchmarks/weighted_undirected (Lancichinetti & Fortunato)",
+ "nguon": "https://github.com/andrealancichinetti/LFRbenchmarks",
+ "binary_sha256": "c5318df878ca9d16292067baf1007e1173652e3fc785826cc0e54e4cacdaaabf",
+ "bien_dich": "trinh_bien_dich: g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0\nlenh: make (makefile đi kèm gói)\nsha256_benchmark: c5318df878ca9d16292067baf1007e1173652e3fc785826cc0e54e4cacdaaabf\nbien_dich_utc: 2026-10-24 09:34:32\n",
+ "design": {
+  "N": 5000,
+  "k": 20,
+  "maxk": 50,
+  "t1": 2,
+  "t2": 1,
+  "minc": 15,
+  "maxc": 50,
+  "beta": 1.5,
+  "mu_t_mu_w": [
+   [
+    0.3,
+    0.3
+   ]
+  ],
+  "on_om": [
+   [
+    0,
+    null
+   ],
+   [
+    500,
+    2
+   ]
+  ],
+  "replicates": [
+   1,
+   2,
+   3
+  ],
+  "base_seed": 998500000
+ },
+ "kiem_hat_giong": {
+  "so_tep_quet": 19,
+  "so_hat_giong_da_dung": 15152
+ },
+ "networks": [
+  {
+   "stem": "lfrw_n5000_mut0.3_muw0.3_on0_omx_seed1",
+   "ordinal": 1,
+   "mu_t": 0.3,
+   "mu_w": 0.3,
+   "on": 0,
+   "om": null,
+   "replicate": 1,
+   "planned_seed": 998500100,
+   "seed": 998500100,
+   "attempt": 1,
+   "N": 5000,
+   "graph": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on0_omx_seed1.tsv",
+   "gt": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on0_omx_seed1_gt.json",
+   "kiem_tra": {
+    "n_canh": 48769,
+    "bat_doi_xung": 0,
+    "w_min": 0.000232433,
+    "w_max": 12.3857,
+    "w_khong_duong": 0,
+    "w_khong_huu_han": 0,
+    "dinh_ngoai_nhan": 0,
+    "dinh_co_canh": 5000
+   },
+   "lenh": "-N 5000 -k 20 -maxk 50 -mut 0.3 -muw 0.3 -beta 1.5 -t1 2 -t2 1 -minc 15 -maxc 50 -on 0",
+   "stdout_cuoi": " edges;\t average degree = 19.5076\n\naverage mixing parameter (topology): 0.300722 +/- 0.0264439\np_in: 0.487221\tp_out: 0.00112831\n\naverage mixing parameter (weights): 0.300258 +/- 0.00185109\naverage weight of an internal link 4.80073 +/- 1.89034\naverage weight of an external link 4.79114 +/- 1.8253\n\n\n"
+  },
+  {
+   "stem": "lfrw_n5000_mut0.3_muw0.3_on0_omx_seed2",
+   "ordinal": 2,
+   "mu_t": 0.3,
+   "mu_w": 0.3,
+   "on": 0,
+   "om": null,
+   "replicate": 2,
+   "planned_seed": 998500200,
+   "seed": 998500200,
+   "attempt": 1,
+   "N": 5000,
+   "graph": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on0_omx_seed2.tsv",
+   "gt": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on0_omx_seed2_gt.json",
+   "kiem_tra": {
+    "n_canh": 49286,
+    "bat_doi_xung": 0,
+    "w_min": 0.000727183,
+    "w_max": 12.7658,
+    "w_khong_duong": 0,
+    "w_khong_huu_han": 0,
+    "dinh_ngoai_nhan": 0,
+    "dinh_co_canh": 5000
+   },
+   "lenh": "-N 5000 -k 20 -maxk 50 -mut 0.3 -muw 0.3 -beta 1.5 -t1 2 -t2 1 -minc 15 -maxc 50 -on 0",
+   "stdout_cuoi": "86 edges;\t average degree = 19.7144\n\naverage mixing parameter (topology): 0.299971 +/- 0.0261011\np_in: 0.49998\tp_out: 0.00113069\n\naverage mixing parameter (weights): 0.300292 +/- 0.00190141\naverage weight of an internal link 4.8339 +/- 1.94477\naverage weight of an external link 4.8384 +/- 1.85699\n\n\n"
+  },
+  {
+   "stem": "lfrw_n5000_mut0.3_muw0.3_on0_omx_seed3",
+   "ordinal": 3,
+   "mu_t": 0.3,
+   "mu_w": 0.3,
+   "on": 0,
+   "om": null,
+   "replicate": 3,
+   "planned_seed": 998500300,
+   "seed": 998500300,
+   "attempt": 1,
+   "N": 5000,
+   "graph": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on0_omx_seed3.tsv",
+   "gt": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on0_omx_seed3_gt.json",
+   "kiem_tra": {
+    "n_canh": 48795,
+    "bat_doi_xung": 0,
+    "w_min": 0.00143115,
+    "w_max": 12.4152,
+    "w_khong_duong": 0,
+    "w_khong_huu_han": 0,
+    "dinh_ngoai_nhan": 0,
+    "dinh_co_canh": 5000
+   },
+   "lenh": "-N 5000 -k 20 -maxk 50 -mut 0.3 -muw 0.3 -beta 1.5 -t1 2 -t2 1 -minc 15 -maxc 50 -on 0",
+   "stdout_cuoi": "5 edges;\t average degree = 19.518\n\naverage mixing parameter (topology): 0.300359 +/- 0.0267364\np_in: 0.508583\tp_out: 0.00112083\n\naverage mixing parameter (weights): 0.300313 +/- 0.00192907\naverage weight of an internal link 4.8076 +/- 1.91548\naverage weight of an external link 4.80556 +/- 1.86453\n\n\n"
+  },
+  {
+   "stem": "lfrw_n5000_mut0.3_muw0.3_on500_om2_seed1",
+   "ordinal": 4,
+   "mu_t": 0.3,
+   "mu_w": 0.3,
+   "on": 500,
+   "om": 2,
+   "replicate": 1,
+   "planned_seed": 998500400,
+   "seed": 998500400,
+   "attempt": 1,
+   "N": 5000,
+   "graph": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on500_om2_seed1.tsv",
+   "gt": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on500_om2_seed1_gt.json",
+   "kiem_tra": {
+    "n_canh": 48197,
+    "bat_doi_xung": 0,
+    "w_min": 0.000213713,
+    "w_max": 11.8042,
+    "w_khong_duong": 0,
+    "w_khong_huu_han": 0,
+    "dinh_ngoai_nhan": 0,
+    "dinh_co_canh": 5000
+   },
+   "lenh": "-N 5000 -k 20 -maxk 50 -mut 0.3 -muw 0.3 -beta 1.5 -t1 2 -t2 1 -minc 15 -maxc 50 -on 500 -om 2",
+   "stdout_cuoi": " edges;\t average degree = 19.2788\n\naverage mixing parameter (topology): 0.300073 +/- 0.0268643\np_in: 0.463023\tp_out: 0.00140413\n\naverage mixing parameter (weights): 0.300318 +/- 0.00195963\naverage weight of an internal link 4.78251 +/- 1.89928\naverage weight of an external link 4.78837 +/- 1.8736\n\n\n"
+  },
+  {
+   "stem": "lfrw_n5000_mut0.3_muw0.3_on500_om2_seed2",
+   "ordinal": 5,
+   "mu_t": 0.3,
+   "mu_w": 0.3,
+   "on": 500,
+   "om": 2,
+   "replicate": 2,
+   "planned_seed": 998500500,
+   "seed": 998500500,
+   "attempt": 1,
+   "N": 5000,
+   "graph": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on500_om2_seed2.tsv",
+   "gt": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on500_om2_seed2_gt.json",
+   "kiem_tra": {
+    "n_canh": 48444,
+    "bat_doi_xung": 0,
+    "w_min": 0.0021894,
+    "w_max": 11.5832,
+    "w_khong_duong": 0,
+    "w_khong_huu_han": 0,
+    "dinh_ngoai_nhan": 0,
+    "dinh_co_canh": 5000
+   },
+   "lenh": "-N 5000 -k 20 -maxk 50 -mut 0.3 -muw 0.3 -beta 1.5 -t1 2 -t2 1 -minc 15 -maxc 50 -on 500 -om 2",
+   "stdout_cuoi": "edges;\t average degree = 19.3776\n\naverage mixing parameter (topology): 0.300572 +/- 0.0268622\np_in: 0.469083\tp_out: 0.00142944\n\naverage mixing parameter (weights): 0.300273 +/- 0.00197938\naverage weight of an internal link 4.79338 +/- 1.86955\naverage weight of an external link 4.78762 +/- 1.87422\n\n\n"
+  },
+  {
+   "stem": "lfrw_n5000_mut0.3_muw0.3_on500_om2_seed3",
+   "ordinal": 6,
+   "mu_t": 0.3,
+   "mu_w": 0.3,
+   "on": 500,
+   "om": 2,
+   "replicate": 3,
+   "planned_seed": 998500600,
+   "seed": 998500600,
+   "attempt": 1,
+   "N": 5000,
+   "graph": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on500_om2_seed3.tsv",
+   "gt": "data/kiem_tra_luan_van/kiem_tra_2_thoi_gian/lfrw_n5000_mut0.3_muw0.3_on500_om2_seed3_gt.json",
+   "kiem_tra": {
+    "n_canh": 48072,
+    "bat_doi_xung": 0,
+    "w_min": 0.00110614,
+    "w_max": 11.8391,
+    "w_khong_duong": 0,
+    "w_khong_huu_han": 0,
+    "dinh_ngoai_nhan": 0,
+    "dinh_co_canh": 5000
+   },
+   "lenh": "-N 5000 -k 20 -maxk 50 -mut 0.3 -muw 0.3 -beta 1.5 -t1 2 -t2 1 -minc 15 -maxc 50 -on 500 -om 2",
+   "stdout_cuoi": " edges;\t average degree = 19.2288\n\naverage mixing parameter (topology): 0.300619 +/- 0.0268786\np_in: 0.46201\tp_out: 0.00138744\n\naverage mixing parameter (weights): 0.300277 +/- 0.00196074\naverage weight of an internal link 4.77026 +/- 1.87048\naverage weight of an external link 4.76228 +/- 1.83472\n\n\n"
+  }
+ ],
+ "generation_failures": [],
+ "thu_lai": [],
+ "status": "COMPLETE"
+}

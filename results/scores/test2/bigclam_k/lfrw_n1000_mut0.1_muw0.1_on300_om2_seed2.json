@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.1_muw0.1_on300_om2_seed2",
+ "topology_id": "lfrw_n1000_mut0.1_muw0.1_on300_om2_seed2",
+ "regime": "original",
+ "mu": 0.1,
+ "mu_w": 0.1,
+ "on": 300,
+ "om": 2,
+ "replicate": 2,
+ "method": "bigclam_k",
+ "method_name": "BigCLAM (K thật)",
+ "status": "ok",
+ "seconds": 8.41080267999996,
+ "n_nodes": 1000,
+ "n_edges": 9847,
+ "cover_stats": {
+  "n_communities": 41,
+  "coverage": 0.994,
+  "mean_memberships": 1.285,
+  "max_size": 49,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.9207358016755947,
+  "onmi_lfk": 0.9235348607404783,
+  "omega": 0.9331093499751597,
+  "f1": 0.9516312831957274,
+  "onf1": 0.902229845626072,
+  "P_O": 0.9293286219081273,
+  "R_O": 0.8766666666666667,
+  "P_mem": 0.9431906614785992,
+  "R_mem": 0.9323076923076923
+ },
+ "source": "Thuc_Nghiem"
+}

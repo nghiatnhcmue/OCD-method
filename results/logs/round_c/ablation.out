@@ -1,0 +1,13 @@
+START 2026-11-13 13:21:23
+Bóc tách v3: 2 lượt, 10 tiến trình
+Xong: 2 ok, 0 quá giờ, 0 lỗi
+PRECHECK OK ok True ok
+Traceback (most recent call last):
+  File "/home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/revision/ablation_v3.py", line 262, in <module>
+    main()
+  File "/home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/revision/ablation_v3.py", line 144, in main
+    jobs.sort(key=lambda j: (order[j[0]], j[3], j[1], j[2]))
+TypeError: '<' not supported between instances of 'str' and 'int'
+ABLATION_RC 1 2026-11-13 13:22:03
+Đã ghi /home/nghia/wghac/wghac_wom_improve/Thuc_Nghiem/results/round_c/ablation/SUMMARY.md
+ABLATION_DONE 2026-11-13 13:22:04

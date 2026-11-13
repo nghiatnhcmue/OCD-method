@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+results/tmp/
+results/logs/*.out
+results/logs/*.done
+tools/java/

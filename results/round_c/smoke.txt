@@ -1,0 +1,20 @@
+proposed      96.7 s  ONMI 0.869  13 cụm
+Start pairwise distance matrix calculation.
+Calculation finished.
+Agglomeration 0 441
+Agglomeration 100 441
+Agglomeration 200 441
+Agglomeration 300 441
+Agglomeration 400 441
+Agglomeration finished.
+wghac         43.1 s  ONMI 0.818  14 cụm
+oslom          1.8 s  ONMI 0.868  13 cụm
+slpa           0.4 s  ONMI 0.865  15 cụm
+infomap        0.1 s  ONMI 0.765  12 cụm
+bigclam        0.6 s  ONMI 0.786  19 cụm
+danmf          0.8 s  ONMI 0.662  19 cụm
+clusterone     0.5 s  ONMI 0.949  14 cụm
+aslpaw       317.4 s  ONMI 0.851  13 cụm
+Tổng 461.3 s
+KHÔNG ĐẠT: lỗi [], phiên bản khác 0, thời gian 461 s
+rc=1

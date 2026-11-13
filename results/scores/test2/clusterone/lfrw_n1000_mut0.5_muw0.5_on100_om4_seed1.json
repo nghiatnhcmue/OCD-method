@@ -1,0 +1,36 @@
+{
+ "dataset": "test2",
+ "net_id": "lfrw_n1000_mut0.5_muw0.5_on100_om4_seed1",
+ "topology_id": "lfrw_n1000_mut0.5_muw0.5_on100_om4_seed1",
+ "regime": "original",
+ "mu": 0.5,
+ "mu_w": 0.5,
+ "on": 100,
+ "om": 4,
+ "replicate": 1,
+ "method": "clusterone",
+ "method_name": "ClusterONE",
+ "status": "ok",
+ "seconds": 3.9376665339805186,
+ "n_nodes": 1000,
+ "n_edges": 9816,
+ "cover_stats": {
+  "n_communities": 51,
+  "coverage": 0.917,
+  "mean_memberships": 0.98,
+  "max_size": 42,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.6122444490913058,
+  "onmi_lfk": 0.6547094003711704,
+  "omega": 0.6395337920511307,
+  "f1": 0.7693454728535422,
+  "onf1": 0.05194805194805195,
+  "P_O": 0.07407407407407407,
+  "R_O": 0.04,
+  "P_mem": 0.9285714285714286,
+  "R_mem": 0.7
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

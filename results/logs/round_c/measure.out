@@ -1,0 +1,8 @@
+START 2026-11-13 10:18:20
+Đo thời gian: 38 lượt, 5 tiến trình, giới hạn 21600 giây
+Xong: 38 ok, 0 quá giờ, 0 lỗi
+TIMING_RC 0 2026-11-13 13:21:11
+Máy chưa rảnh (tải 1 phút 1.65; tiến trình thực nghiệm: 0). Đợi các lô khác xong rồi chạy lại.
+
+APPS_RC 1 2026-11-13 13:21:12
+MEASURE_DONE 2026-11-13 13:21:12

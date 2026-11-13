@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997000900_FLAT",
+ "topology_id": "KT1_997000900",
+ "regime": "FLAT",
+ "mu": 0.1,
+ "mu_w": "",
+ "on": 400,
+ "om": 4,
+ "replicate": 1,
+ "method": "aslpaw",
+ "method_name": "ASLPAw",
+ "status": "ok",
+ "seconds": 2390.6463175329845,
+ "n_nodes": 1000,
+ "n_edges": 9833,
+ "cover_stats": {
+  "n_communities": 50,
+  "coverage": 0.999,
+  "mean_memberships": 1.14,
+  "max_size": 195,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.23954222635946407,
+  "onmi_lfk": 0.36187444881086384,
+  "omega": 0.31489104217172614,
+  "f1": 0.5397058107932402,
+  "onf1": 0.4230055658627087,
+  "P_O": 0.8201438848920863,
+  "R_O": 0.285,
+  "P_mem": 0.7087719298245614,
+  "R_mem": 0.36727272727272725
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

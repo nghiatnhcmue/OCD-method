@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_extended",
+ "topology_id": "krogan2006_extended",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "bigclam_k",
+ "method_name": "BigCLAM (K thật)",
+ "status": "ok",
+ "seconds": 56.705624059,
+ "n_nodes": 3672,
+ "n_edges": 14317,
+ "cover_stats": {
+  "n_communities": 183,
+  "coverage": 0.8959694989106753,
+  "mean_memberships": 2.2513616557734206,
+  "max_size": 111,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.036748565639150646,
+  "onmi_lfk": 0.08055383889603118,
+  "omega": 0.02902581560923823,
+  "f1": 0.23978195473807834,
+  "onf1": 0.10341365461847389,
+  "P_O": 0.055675675675675676,
+  "R_O": 0.7253521126760564,
+  "P_mem": 0.09701221724930446,
+  "R_mem": 0.6878216123499142,
+  "labeled_onmi_mgh": 0.18691099607260056,
+  "labeled_onmi_lfk": 0.21041355588115118,
+  "labeled_omega": 0.2602882111350293,
+  "labeled_f1": 0.4562118015064096,
+  "labeled_onf1": 0.27540106951871657,
+  "labeled_coverage": 0.9722507708119219
+ },
+ "source": "Thuc_Nghiem"
+}

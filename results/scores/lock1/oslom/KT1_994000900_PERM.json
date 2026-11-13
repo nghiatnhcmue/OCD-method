@@ -1,0 +1,36 @@
+{
+ "dataset": "lock1",
+ "net_id": "KT1_994000900_PERM",
+ "topology_id": "KT1_994000900",
+ "regime": "PERM",
+ "mu": 0.5,
+ "mu_w": "",
+ "on": 400,
+ "om": 6,
+ "replicate": 1,
+ "method": "oslom",
+ "method_name": "OSLOM",
+ "status": "ok",
+ "seconds": 52.343737726001564,
+ "n_nodes": 1000,
+ "n_edges": 9614,
+ "cover_stats": {
+  "n_communities": 57,
+  "coverage": 1.0,
+  "mean_memberships": 1.019,
+  "max_size": 42,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.07009012808569517,
+  "onmi_lfk": 0.13508936855771414,
+  "omega": 0.15620854774553716,
+  "f1": 0.43280383477491946,
+  "onf1": 0.0430622009569378,
+  "P_O": 0.5,
+  "R_O": 0.0225,
+  "P_mem": 0.6683022571148185,
+  "R_mem": 0.227
+ },
+ "source": "Thuc_Nghiem"
+}

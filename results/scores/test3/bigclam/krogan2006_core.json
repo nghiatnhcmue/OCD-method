@@ -1,0 +1,42 @@
+{
+ "dataset": "test3",
+ "net_id": "krogan2006_core",
+ "topology_id": "krogan2006_core",
+ "regime": "ppi",
+ "mu": "",
+ "mu_w": "",
+ "on": "",
+ "om": "",
+ "replicate": "",
+ "method": "bigclam",
+ "method_name": "BigCLAM",
+ "status": "ok",
+ "seconds": 28.193155582994223,
+ "n_nodes": 2708,
+ "n_edges": 7123,
+ "cover_stats": {
+  "n_communities": 121,
+  "coverage": 0.895864106351551,
+  "mean_memberships": 1.526957163958641,
+  "max_size": 76,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.08291263805666843,
+  "onmi_lfk": 0.12405259467605223,
+  "omega": 0.0680691775765619,
+  "f1": 0.308073447639754,
+  "onf1": 0.13270142180094788,
+  "P_O": 0.07608695652173914,
+  "R_O": 0.5185185185185185,
+  "P_mem": 0.1649334945586457,
+  "R_mem": 0.6350093109869647,
+  "labeled_onmi_mgh": 0.33843142854867253,
+  "labeled_onmi_lfk": 0.30157255796607774,
+  "labeled_omega": 0.4288014042895255,
+  "labeled_f1": 0.5336180333382292,
+  "labeled_onf1": 0.2910602910602911,
+  "labeled_coverage": 0.9448818897637795
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}

@@ -1,0 +1,11 @@
+folder	file	url	downloaded_utc	size	sha256
+lfrLFRbenchmarks-master.tar.gz	https://github.com/andrealancichinetti/LFRbenchmarks/archive/refs/heads/master.tar.gz	2026-10-24 09:25:52	280974	c838333bcfac6a33bb3b9ec64ab26e9a3a3f8786cea6a806fc614ae93b03e19f
+clusterone	cluster_one-1.0.jar	https://paccanarolab.org/static_content/clusterone/cluster_one-1.0.jar	2026-10-24 09:25:55	575926	3344c954df388f5cfe9795e0db375ae7189334a1eacb5bd3121507b33765a16b
+clusterone	cl1_datasets.zip	https://paccanarolab.org/static_content/clusterone/cl1_datasets.zip	2026-10-24 09:25:57	537735	2664d6ffe691cc7b4fececdd746ebd0adc8fc65f2f14f469bb6899486d38cdd8
+clusterone	cl1_gold_standard.zip	https://paccanarolab.org/static_content/clusterone/cl1_gold_standard.zip	2026-10-24 09:25:58	13124	2c7805fafc52aed507d9a0528bb087fec2bc4e4f23adfdd7a7d2e518b10b9f32
+java	temurin17-jre-linux-x64.tar.gz	https://api.adoptium.net/v3/binary/latest/17/ga/linux/x64/jre/hotspot/normal/eclipse	2026-10-24 09:31:33	46726088	9f41bf88c7900c7097444a1bdeb84146ae692bc08842490ab098063c74bf9a8a
+cyc2008_pmc	gkn1005_nar-02139-s-2008-File004.xls	https://pmc.ncbi.nlm.nih.gov/articles/instance/2647312/bin/gkn1005_nar-02139-s-2008-File004.xls	2026-10-24 09:45:10	1817	e6bab2e3df8cc589c820afeeed6708193c5f3510559da0eae381bc70b9442f7a
+cyc2008_pmc	gkn1005_nar-02139-s-2008-File005.xls	https://pmc.ncbi.nlm.nih.gov/articles/instance/2647312/bin/gkn1005_nar-02139-s-2008-File005.xls	2026-10-24 09:45:10	1817	83d0beae1308d95c8481e611e233a3b54d3a4bea34887025a02e0c02c1e75dab
+cyc2008_pmc	gkn1005_index.html	https://pmc.ncbi.nlm.nih.gov/articles/instance/2647312/bin/gkn1005_index.html	2026-10-24 09:45:11	1817	e095b72216afa854b02e4c21440105786276d41d1b7d3224deba0247ab1c5164
+cyc2008_pmc	(3 tệp)	https://pmc.ncbi.nlm.nih.gov/articles/instance/2647312/bin/...	2026-10-24 09:45:52	-	KHÔNG DÙNG: máy chủ trả trang HTML thử thách JavaScript thay cho tệp; đã xóa
+cyc2008_epmc	PMC2647312_supplementary.zip	https://www.ebi.ac.uk/europepmc/webservices/rest/PMC2647312/supplementaryFiles	2026-10-24 09:48:58	1323745	19947a39d9728551375968d39daa6cd83d4ae86f5532ba5e93d39fc29d9dd98c

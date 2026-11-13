@@ -1,0 +1,36 @@
+{
+ "dataset": "test1",
+ "net_id": "KT1_997003400_INJ",
+ "topology_id": "KT1_997003400",
+ "regime": "INJ",
+ "mu": 0.5,
+ "mu_w": "",
+ "on": 400,
+ "om": 4,
+ "replicate": 2,
+ "method": "wghac",
+ "method_name": "wGHAC",
+ "status": "ok",
+ "seconds": 3663.9929228440014,
+ "n_nodes": 1000,
+ "n_edges": 9546,
+ "cover_stats": {
+  "n_communities": 170,
+  "coverage": 1.0,
+  "mean_memberships": 1.222,
+  "max_size": 39,
+  "nodes_outside_graph": 0
+ },
+ "scores": {
+  "onmi_mgh": 0.24992313947229886,
+  "onmi_lfk": 0.2231792946188058,
+  "omega": 0.3002486608091382,
+  "f1": 0.42830175010181365,
+  "onf1": 0.29537366548042704,
+  "P_O": 0.5123456790123457,
+  "R_O": 0.2075,
+  "P_mem": 0.7111292962356792,
+  "R_mem": 0.395
+ },
+ "source": "imported: results/kiem_tra_luan_van/raw (earlier run, unchanged method code)"
+}
